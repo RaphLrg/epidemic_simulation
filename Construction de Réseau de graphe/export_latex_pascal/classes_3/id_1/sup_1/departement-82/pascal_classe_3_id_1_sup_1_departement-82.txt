@@ -1,0 +1,498 @@
+195
+295
+
+
+
+1 14 1
+1 24 1
+2 126 1
+2 185 1
+3 61 1
+3 150 1
+4 47 1
+4 194 1
+5 22 1
+5 26 1
+5 118 1
+6 122 1
+6 171 1
+6 179 2
+7 51 1
+7 83 1
+7 116 1
+8 62 1
+8 149 1
+9 45 1
+9 180 1
+10 74 1
+10 192 1
+11 42 1
+11 64 1
+11 113 1
+12 19 1
+12 61 1
+12 150 1
+13 75 1
+13 111 1
+13 140 1
+14 140 1
+14 171 1
+15 113 1
+15 147 1
+16 36 1
+16 66 1
+16 170 1
+17 147 2
+17 179 11
+18 48 1
+18 80 1
+18 195 1
+19 188 120
+20 114 1
+20 181 1
+21 44 3
+21 72 94
+21 189 3
+22 46 1
+22 104 1
+23 123 1
+23 138 1
+24 57 1
+24 84 1
+25 92 2
+25 147 1
+26 118 1
+26 157 1
+27 100 1
+27 142 1
+28 129 1
+28 193 1
+29 92 4
+29 188 124
+30 100 1
+30 158 1
+30 194 1
+31 94 1
+31 142 1
+32 59 1
+32 128 1
+32 155 1
+33 103 1
+33 145 1
+33 152 1
+33 186 1
+34 137 1
+34 167 1
+35 67 1
+35 95 1
+35 146 1
+36 69 1
+37 54 2
+37 88 1
+37 168 1
+38 65 1
+38 133 1
+38 173 1
+39 75 1
+39 84 1
+39 124 1
+40 70 3
+40 72 36
+40 79 1
+40 105 2
+40 144 3
+41 49 1
+41 88 1
+41 168 1
+42 50 1
+42 78 1
+42 113 1
+43 104 1
+43 118 1
+44 158 1
+44 189 1
+45 66 1
+45 141 1
+45 180 1
+46 93 1
+46 181 1
+47 79 1
+48 90 1
+48 182 1
+49 88 1
+49 106 1
+49 168 1
+50 102 1
+50 127 1
+50 165 2
+51 108 1
+51 116 1
+51 174 1
+52 74 1
+52 194 1
+53 81 1
+53 101 1
+54 92 4
+55 114 1
+55 159 1
+56 105 1
+56 116 1
+57 115 3
+57 154 1
+58 152 1
+58 186 1
+59 128 1
+59 195 1
+60 131 1
+60 167 1
+60 185 1
+61 150 1
+62 149 1
+62 151 1
+63 81 1
+63 111 1
+64 113 1
+64 179 3
+65 98 3
+65 133 1
+66 79 1
+66 144 1
+66 180 1
+67 95 1
+67 183 1
+68 148 1
+68 162 1
+69 82 1
+69 160 1
+70 105 1
+70 108 1
+71 107 1
+71 135 4
+72 166 16
+73 100 1
+73 158 1
+74 105 1
+74 192 1
+75 137 1
+75 140 1
+76 95 1
+76 126 1
+76 177 1
+77 91 2
+77 107 1
+77 119 1
+78 102 1
+79 144 1
+80 123 1
+80 169 1
+81 111 1
+81 124 1
+82 89 1
+82 160 1
+83 108 1
+84 140 1
+85 123 1
+85 125 1
+85 142 1
+85 157 1
+85 178 1
+85 195 1
+86 127 1
+86 165 1
+86 172 1
+87 134 1
+87 175 1
+88 168 1
+89 114 1
+89 121 1
+90 175 1
+91 150 1
+93 181 1
+94 109 1
+94 144 1
+94 157 3
+94 159 1
+95 146 1
+95 174 1
+95 183 1
+96 104 1
+96 118 1
+96 138 1
+97 99 1
+97 185 1
+97 191 1
+98 133 1
+98 184 1
+99 174 1
+101 117 1
+101 143 1
+102 127 1
+103 145 1
+103 186 1
+104 118 1
+106 130 1
+106 161 1
+107 119 1
+107 155 1
+109 176 1
+110 157 1
+110 181 1
+111 140 1
+112 136 1
+112 173 1
+112 184 1
+113 179 3
+114 121 1
+115 154 6
+115 179 20
+115 193 5
+117 143 1
+119 135 3
+120 148 1
+120 172 1
+122 171 3
+123 125 1
+126 167 1
+126 174 1
+126 187 1
+128 195 1
+129 152 1
+129 193 2
+130 161 1
+131 187 1
+132 175 3
+132 182 2
+134 173 1
+134 175 1
+134 182 1
+135 188 183
+136 169 1
+136 184 1
+137 153 1
+137 164 1
+137 187 1
+139 153 1
+139 163 1
+141 170 1
+141 180 1
+145 156 1
+148 165 1
+148 172 1
+149 165 1
+151 162 1
+151 190 1
+152 156 1
+152 193 1
+153 164 1
+157 195 1
+158 166 1
+159 160 1
+160 176 1
+162 165 1
+162 190 1
+163 177 1
+166 192 1
+167 185 1
+173 182 1
+174 191 1
+175 182 1
+178 189 1
+178 195 1
+
+
+
+299 0 18 saint-vincent-82
+189 0 15 montagudet
+1155 0 98 meauzac
+246 0 18 saint-michel-82
+185 0 18 gimat
+499 0 80 cayrac
+181 0 12 montjoi-82
+299 0 11 saint-projet-82
+912 0 93 golfech
+607 0 23 saint-paul-d-espis
+1091 0 41 montricoux
+625 0 77 albefeuille-lagarde
+669 0 24 puycornet
+992 0 30 mirabel-82
+591 0 32 genebrieres
+168 0 18 saint-cirice
+3529 0 166 saint-etienne-de-tulmont
+887 0 33 saint-sardos-82
+3442 0 215 montbeton
+55 0 10 maumusson-82
+12770 0 166 castelsarrasin
+106 0 20 marignac-82
+300 0 18 escazeaux
+111 0 14 auty
+1712 0 70 saint-nauphary
+61 0 16 auterive-82
+104 0 11 fajolles
+488 0 30 saint-cirq-82
+3580 0 175 bressols
+321 0 21 caumont-82
+104 0 15 coutures-82
+232 0 48 lafitte
+221 0 24 saint-georges-82
+798 0 22 durfort-lacapelette
+193 0 28 saint-amans-du-pech
+273 0 17 mansonville
+928 0 93 reynies
+653 0 88 canals
+365 0 15 labarthe-82
+5137 0 382 valence-82
+1192 0 94 nohic
+607 0 18 bruniquel
+143 0 11 maubec-82
+414 0 85 saint-aignan-82
+1027 0 77 donzac-82
+58 0 7 cumont
+257 0 22 bardigues
+1164 0 47 mas-grenier
+633 0 42 varennes-82
+1864 0 17 saint-antonin-noble-val
+548 0 24 castelsagrat
+238 0 33 merles
+2854 0 56 lafrancaise
+3680 0 178 labastide-saint-pierre
+32 0 7 balignac
+231 0 24 saint-vincent-lespinasse
+639 0 23 montalzat
+128 0 9 labastide-de-penne
+166 0 30 labourgade
+162 0 21 montbarla
+849 0 74 barry-d-islemade
+130 0 11 loze
+1006 0 84 lamothe-capdeville
+1055 0 51 bioule
+3641 0 206 grisolles-82
+492 0 34 saint-loup-82
+124 0 12 saint-beauzeil
+701 0 47 laguepie
+125 0 11 chapelle-82
+901 0 79 goudourville
+1118 0 75 lacourt-saint-pierre
+12192 0 141 moissac
+213 0 25 angeville
+1075 0 90 malause
+759 0 23 vazerac
+1410 0 18 montaigu-de-quercy
+1375 0 87 saint-porquier
+360 0 20 puygaillard-de-quercy
+412 0 52 espalais
+293 0 23 comberouger
+399 0 51 piquecos
+97 0 9 poupas
+122 0 13 perville
+108 0 16 montfermier
+487 0 15 serignac-82
+176 0 10 espinas
+1219 0 81 campsas
+1462 0 104 orgueil
+177 0 11 marsac-82
+1395 0 121 finhan
+2845 0 108 ville-dieu-du-temple
+1663 0 127 corbarieu
+123 0 22 lamothe-cumont
+1508 0 57 lavit
+431 0 20 roquecor
+148 0 15 cause
+325 0 18 saint-nazaire-de-valentane
+1383 0 113 pompignan-82
+260 0 12 brassac-82
+145 0 15 saint-arroumex
+482 0 51 lizac
+243 0 20 cazals-82
+207 0 15 lavaurette
+43 0 15 goas
+575 0 100 pommevic
+663 0 35 salvetat-belmontet
+1066 0 59 escatalens
+433 0 32 gasques
+114 0 6 castera-bouzet
+246 0 14 esparsac
+1571 0 48 honor-de-cos
+741 0 32 savenes
+789 0 21 vaïssac
+99 0 10 montgaillard-82
+6623 0 144 caussade
+276 0 33 saint-clair-82
+1077 0 98 labastide-du-temple
+291 0 15 faudoas
+791 0 47 bourret
+314 0 17 verfeil-82
+153 0 11 gramont
+2956 0 136 albias
+124 0 19 vigueron
+275 0 58 montastruc-82
+118 0 32 belbese
+396 0 16 touffailles
+170 0 11 feneyrols
+116 0 28 montain-82
+2140 0 79 septfonds
+1763 0 46 monclar-de-quercy
+235 0 16 saint-amans-de-pellagal
+4112 0 113 verdun-sur-garonne
+554 0 87 fabas-82
+1350 0 145 bessens
+5631 0 112 montech
+574 0 18 bouillac-82
+1213 0 20 cazes-mondenard
+106 0 7 garies
+122 0 16 sainte-juliette
+1174 0 30 molieres-82
+1176 0 50 dunes
+109 0 9 gensac-82
+488 0 59 barthes
+960 0 61 auvillar
+259 0 34 cayriech
+181 0 12 lacour
+1089 0 85 leojac
+674 0 29 varen
+184 0 13 lacapelle-livron
+700 0 76 villemade
+348 0 15 puylagarde
+671 0 18 puylaroque
+167 0 9 sauveterre-82
+1480 0 33 montpezat-de-quercy
+272 0 17 cordes-tolosannes
+170 0 20 lapenche
+3852 0 83 beaumont-de-lomagne
+1119 0 70 castelmayran
+61 0 8 puygaillard-de-lomagne
+65 0 8 saint-jean-du-bouzet
+473 0 20 verlhac-tescou
+552 0 19 parisot-82
+231 0 15 bouloc-82
+260 0 18 trejouls
+1536 0 15 caylus
+2140 0 72 saint-nicolas-de-la-grave
+785 0 27 montesquieu-82
+1240 0 108 villebrumier
+303 0 25 beaupuy-82
+205 0 15 sistels
+1849 0 73 realville
+202 0 8 ginals
+1426 0 232 dieupentale
+398 0 27 bourg-de-visa
+1248 0 83 montbartier
+140 0 13 asques-82
+211 0 15 belveze
+628 0 28 garganvillar
+5168 0 104 negrepelisse
+1162 0 127 lamagistere
+69 0 29 glatens
+587 0 86 monbequi
+233 0 16 valeilles
+1024 0 44 aucamville-82
+353 0 23 miramont-de-quercy
+92 0 10 mouillac-82
+1506 0 33 lauzerte
+56271 0 416 montauban
+419 0 49 castelferrus
+241 0 10 castanet-82
+221 0 16 fauroux
+692 0 56 boudou
+1303 0 107 monteils-82
+120 0 25 pin-82
+640 0 42 larrazet

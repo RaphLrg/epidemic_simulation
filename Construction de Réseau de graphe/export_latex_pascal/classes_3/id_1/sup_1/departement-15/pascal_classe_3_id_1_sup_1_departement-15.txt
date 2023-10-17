@@ -1,0 +1,661 @@
+260
+393
+
+
+
+1 71 1
+1 166 1
+1 171 1
+1 216 1
+2 23 33
+2 116 1
+3 46 1
+3 87 1
+3 101 1
+4 162 1
+4 166 1
+5 62 1
+5 145 1
+5 191 1
+5 209 1
+5 255 1
+6 37 1
+6 219 1
+7 127 1
+7 186 1
+8 47 1
+8 88 1
+9 21 1
+9 162 1
+10 14 1
+10 25 1
+10 241 1
+11 22 1
+11 132 1
+11 158 1
+11 197 1
+12 148 1
+12 255 1
+13 144 1
+13 163 1
+13 213 1
+14 241 1
+15 122 1
+15 159 1
+15 174 1
+16 138 1
+16 228 1
+17 43 1
+17 133 1
+18 47 1
+18 88 1
+19 70 1
+19 184 1
+19 251 1
+20 47 1
+20 89 1
+21 29 1
+21 60 1
+21 98 1
+21 205 1
+21 216 1
+22 197 1
+23 96 105
+23 250 66
+24 224 1
+24 241 1
+25 253 1
+26 145 1
+26 157 1
+26 209 1
+27 234 1
+27 248 1
+28 89 1
+28 121 1
+29 60 1
+29 98 1
+30 53 1
+30 121 1
+30 147 1
+31 129 1
+31 172 1
+31 227 1
+32 115 1
+32 221 1
+33 108 1
+33 163 1
+33 197 2
+33 239 1
+34 155 1
+34 190 1
+35 76 1
+35 83 1
+36 66 1
+36 70 1
+37 247 1
+37 250 4
+38 111 1
+38 124 1
+38 219 1
+38 227 1
+39 217 1
+39 219 1
+39 236 1
+40 52 1
+40 224 1
+40 241 1
+41 47 1
+41 89 1
+42 81 1
+42 120 1
+42 138 1
+42 243 1
+43 133 1
+43 148 1
+43 255 1
+44 65 1
+44 85 1
+44 107 1
+45 66 1
+45 70 1
+46 87 1
+46 105 1
+47 88 1
+48 166 1
+48 207 1
+49 80 1
+49 194 1
+50 79 1
+50 217 1
+50 236 1
+51 52 1
+51 175 1
+53 121 1
+53 220 1
+53 242 1
+54 78 1
+54 134 1
+54 215 1
+55 158 1
+55 163 1
+55 197 1
+55 204 1
+56 119 1
+56 153 1
+57 107 1
+57 139 1
+57 217 1
+58 141 1
+58 252 1
+58 253 1
+59 201 1
+59 228 1
+61 102 1
+61 152 1
+61 170 1
+62 145 1
+62 191 1
+63 131 1
+63 190 1
+64 85 1
+64 175 1
+64 195 1
+65 79 1
+65 195 1
+66 70 1
+66 184 1
+67 192 1
+67 219 1
+68 163 1
+68 193 1
+69 106 1
+69 115 1
+70 128 1
+70 140 1
+70 184 1
+71 182 1
+71 208 1
+72 83 1
+72 114 1
+73 96 4
+73 152 1
+74 204 1
+74 212 1
+74 254 1
+75 169 1
+75 259 1
+76 83 1
+77 94 2
+77 96 11
+77 117 2
+77 177 2
+77 182 5
+77 226 2
+78 224 1
+80 118 1
+80 149 1
+80 194 1
+81 243 1
+82 96 4
+82 258 1
+83 150 1
+83 163 1
+84 141 1
+84 161 1
+84 223 1
+85 113 1
+85 247 1
+86 218 1
+86 239 1
+87 206 1
+87 245 1
+88 150 1
+88 174 1
+88 206 1
+90 109 1
+90 208 1
+90 248 1
+91 97 1
+91 225 1
+92 181 1
+92 210 1
+93 100 1
+93 183 1
+94 105 1
+94 226 1
+95 146 1
+95 189 1
+97 220 1
+97 225 1
+99 198 1
+99 233 1
+100 169 1
+100 183 1
+101 189 1
+102 152 1
+103 146 1
+103 160 1
+104 111 1
+104 156 1
+104 219 1
+106 150 1
+106 204 1
+106 206 1
+107 217 1
+108 144 1
+109 182 1
+110 126 1
+110 209 1
+110 255 1
+111 172 1
+112 166 1
+112 171 1
+113 116 1
+113 140 1
+113 181 1
+114 200 1
+115 221 1
+116 181 1
+117 122 1
+117 231 1
+117 242 1
+118 120 1
+119 153 1
+119 198 1
+120 138 2
+120 194 2
+120 199 1
+120 224 1
+120 250 6
+121 165 1
+121 200 1
+121 242 1
+121 244 1
+122 177 1
+123 186 1
+123 237 1
+123 246 1
+124 156 1
+125 143 1
+125 230 1
+125 256 1
+126 215 1
+127 131 1
+127 235 1
+128 181 1
+128 223 1
+129 230 1
+130 154 1
+130 239 1
+131 235 1
+132 211 1
+133 157 1
+134 215 1
+135 226 1
+135 233 1
+136 193 1
+136 213 1
+137 161 1
+137 210 1
+138 199 1
+139 217 1
+140 181 1
+140 223 1
+142 152 1
+142 183 1
+142 260 1
+143 222 1
+146 160 1
+146 170 1
+147 165 1
+149 180 1
+150 187 1
+150 203 1
+150 204 1
+150 206 1
+151 162 1
+151 216 1
+152 188 1
+152 210 1
+153 207 1
+154 163 1
+155 190 1
+155 214 1
+155 249 1
+156 192 1
+159 167 1
+161 188 1
+164 186 1
+164 230 1
+167 178 1
+168 223 1
+168 252 1
+169 185 1
+169 237 1
+170 188 1
+171 216 1
+172 222 1
+172 230 1
+173 191 1
+173 209 1
+174 206 1
+174 245 1
+176 185 1
+176 237 1
+178 220 1
+179 208 1
+179 229 1
+180 194 1
+180 195 1
+183 260 1
+185 235 1
+185 246 1
+186 246 1
+187 203 1
+192 219 1
+193 213 1
+194 224 1
+196 208 1
+196 240 1
+197 202 1
+197 211 1
+198 233 1
+200 238 1
+200 244 1
+201 232 1
+202 211 1
+202 228 1
+202 255 1
+204 252 1
+204 254 1
+205 216 1
+205 226 1
+206 245 1
+208 229 1
+208 240 1
+209 255 1
+211 255 1
+212 232 1
+212 254 1
+214 249 1
+214 256 1
+217 219 1
+218 239 1
+219 257 1
+220 225 1
+227 257 1
+227 258 1
+229 240 1
+230 235 1
+231 234 1
+232 253 1
+235 246 1
+238 244 1
+247 250 2
+247 251 1
+249 256 1
+250 258 3
+259 260 1
+
+
+
+926 0 17 chaudes-aigues
+1917 0 163 naucelles
+251 0 7 cezens
+204 0 5 lieutades
+1062 0 37 champagnac-15
+468 0 29 lacapelle-viescamp
+107 0 11 vieillevie
+239 0 13 celles-15
+258 0 10 paulhenc
+214 0 11 fontanges
+173 0 3 collandres
+121 0 12 monselie
+100 0 5 saint-bonnet-de-condat
+117 0 3 saint-paul-de-salers
+580 0 15 talizat
+815 0 16 anglards-de-salers
+1038 0 17 champs-sur-tarentaine-marchal
+140 0 8 sainte-anastasie-15
+195 0 11 freix-anglards
+25 0 8 valjouze
+900 0 36 pierrefort
+212 0 17 apchon
+27924 0 970 aurillac
+314 0 9 saint-bonnet-de-salers
+126 0 3 saint-projet-de-salers
+216 0 32 madic
+130 0 8 montchamp-15
+86 0 5 charmensac
+243 0 12 saint-martin-sous-vigouroux
+329 0 8 saint-poncy
+290 0 16 vitrac-15
+239 0 25 chapelle-d-alagnon
+996 0 24 condat-15
+88 0 14 trioulou
+92 0 3 pradiers
+227 0 14 saint-cirgues-de-malbert
+1473 0 77 saint-paul-des-landes
+981 0 119 rouget
+511 0 10 siran-15
+846 0 32 saint-martin-valmeroux
+164 0 5 peyrusse
+374 0 22 jaleyrac
+282 0 17 antignac-15
+109 0 8 saint-victor-15
+256 0 18 saint-chamant-15
+137 0 10 cussac-15
+153 0 7 joursac
+57 0 5 deux-verges
+71 0 25 escorailles
+217 0 9 rouffiac-15
+128 0 33 besse-15
+204 0 14 sainte-eulalie-15
+334 0 12 chapelle-laurent
+234 0 5 clavieres
+277 0 8 cheylade
+64 0 4 saint-martial-15
+140 0 12 saint-etienne-cantales
+197 0 5 mandailles-saint-julien
+73 0 3 saint-vincent-de-salers
+75 0 7 narnhac
+132 0 12 saint-etienne-de-carlat
+128 0 9 veyrieres-15
+63 0 8 fournoules
+660 0 16 saint-illide
+152 0 7 arnac
+139 0 14 tournemire-15
+212 0 8 glenat
+102 0 4 landeyrat
+139 0 10 chastel-sur-murat
+1076 0 23 saint-cernin-15
+302 0 9 faverolles-15
+66 0 2 veze-15
+1135 0 75 vezac-15
+261 0 5 dienne-15
+235 0 17 leucamp
+67 0 2 vernols
+6711 0 247 saint-flour-15
+154 0 17 salins-15
+218 0 7 cros-de-montvert
+234 0 14 chaussenac
+192 0 16 sourniac
+1007 0 27 roannes-saint-mary
+891 0 17 allanche
+306 0 16 lascelle
+564 0 22 ayrens
+189 0 6 tremouille
+456 0 9 paulhac-15
+968 0 71 neussargues-moissac
+251 0 13 ferrieres-saint-mary
+630 0 21 ruynes-en-margeride
+143 0 5 vedrines-saint-loup
+743 0 52 giou-de-mamou
+309 0 20 lacapelle-del-fraisse
+575 0 30 ternes
+58 0 9 lacapelle-barres
+6053 0 126 arpajon-sur-cere
+111 0 8 rageade
+64 0 7 gourdieges
+211 0 9 alleuze
+579 0 35 lafeuillade-en-vezie
+205 0 4 brezons
+130 0 8 cros-de-ronesque
+159 0 6 pailherols
+327 0 13 parlan
+244 0 17 tanavelle
+1983 0 306 murat-15
+106 0 8 nieudan
+154 0 6 marchastel-15
+336 0 27 anglards-de-saint-flour
+902 0 132 saignes-15
+267 0 28 cayrols
+44 0 2 trinitat
+1871 0 101 jussac
+98 0 4 moledes
+222 0 6 albepierre-bredons
+1064 0 119 reilhac-15
+429 0 25 coren
+72 0 5 brageac
+100 0 6 maurines
+3836 0 138 mauriac-15
+299 0 17 molompize
+440 0 20 andelat
+213 0 16 sansac-veinazes
+260 0 19 roumegoux-15
+323 0 19 quezac-15
+260 0 11 monteil-15
+509 0 14 cassaniouze
+375 0 23 laroquevieille
+616 0 11 marcoles
+123 0 6 chanterelle
+317 0 10 mourjou
+262 0 17 valette-15
+1421 0 34 lanobre
+168 0 7 meallet
+135 0 10 seriers
+227 0 8 segur-les-villas
+1092 0 37 polminhac
+826 0 28 vigean
+210 0 12 saint-gerons
+733 0 30 marmanhac
+140 0 8 saint-cirgues-de-jordanne
+416 0 20 labrousse
+148 0 15 saint-julien-de-toursac
+159 0 11 lugarde
+168 0 11 saint-pierre-15
+112 0 18 jou-sous-monjou
+154 0 7 saint-mary-le-plain
+210 0 7 saint-etienne-de-chomeil
+163 0 12 barriac-les-bosquets
+430 0 15 chalinargues
+72 0 4 espinasse-15
+325 0 15 carlat
+127 0 7 anterrieux
+42 0 2 montgreleix
+365 0 25 saint-santin-de-maurs
+204 0 6 saint-saury
+102 0 13 beaulieu-15
+108 0 7 saint-hippolyte-15
+125 0 9 rezentieres
+64 0 3 saint-clement-15
+1982 0 67 vic-sur-cere
+113 0 6 sainte-marie-15
+515 0 10 marcenat-15
+120 0 16 saint-antoine-15
+162 0 7 bonnac-15
+147 0 4 jabrun
+257 0 10 vieillespesse
+612 0 14 thiezac
+493 0 18 ladinhac
+123 0 9 badailhac
+487 0 8 saint-urcize
+607 0 16 boisset-15
+193 0 13 sauvat
+454 0 23 coltines
+166 0 8 saint-martin-cantales
+102 0 12 lapeyrugue
+584 0 27 roffiac
+108 0 10 lastic-15
+197 0 10 chaliers
+1590 0 17 pleaux
+1082 0 39 saint-simon-15
+1083 0 32 saint-georges-15
+569 0 20 prunet-15
+77 0 6 girgols
+875 0 43 montsalvy
+195 0 11 senezergues
+104 0 6 chavagnac-15
+314 0 18 raulhac
+133 0 4 malbo
+136 0 26 montmurat
+224 0 18 bassignac
+122 0 18 segalassiere
+89 0 5 soulages
+658 0 28 ally-15
+318 0 9 saint-santin-cantales
+187 0 8 lorcieres
+2698 0 58 riom-es-montagnes
+96 0 6 fridefont
+433 0 12 chalvignac
+96 0 4 laurie
+70 0 3 vaulmier
+529 0 11 trizac
+141 0 12 virargues
+587 0 16 laveissiere
+1108 0 20 neuveglise
+484 0 46 ussel-15
+109 0 7 saint-remy-de-chaudes-aigues
+406 0 14 loubaresse-15
+1844 0 106 ydes
+575 0 58 yolet
+506 0 16 menet
+213 0 7 claux
+220 0 5 saint-saturnin-15
+559 0 25 saint-constant
+186 0 9 auzers
+279 0 8 oradour-15
+814 0 47 laroquebrou
+239 0 7 saint-amandin
+302 0 18 pers-15
+78 0 8 celoux
+97 0 8 laveissenet
+132 0 15 rouziers
+394 0 34 velzic
+353 0 19 drugeac
+35 0 5 chazelles-15
+528 0 27 villedieu-15
+1536 0 29 saint-mamet-la-salvetat
+269 0 14 moussages
+83 0 9 saint-marc
+356 0 12 leynhac
+126 0 9 mentieres
+144 0 4 falgoux
+239 0 9 lavastrie
+157 0 11 tiviers
+483 0 35 calvinet
+118 0 10 montvert
+264 0 19 labesserette
+31 0 2 leyvaux
+186 0 9 montboudif
+208 0 12 saint-just-15
+358 0 73 salers
+1829 0 52 massiac
+182 0 11 arches-15
+205 0 10 auriac-l-eglise
+542 0 14 valuejols
+328 0 11 junhac
+715 0 57 crandelles
+223 0 11 vabres-15
+785 0 45 saint-etienne-de-maurs
+3902 0 101 ytrac
+223 0 23 teissieres-de-cornet
+322 0 10 saint-jacques-des-blats
+26 0 1 fau
+104 0 4 lavigerie
+489 0 20 vebret
+2182 0 70 maurs
+300 0 23 omps
+1294 0 90 sansac-de-marmiesse
+149 0 11 vezels-roussy
+318 0 16 teissieres-les-boulies

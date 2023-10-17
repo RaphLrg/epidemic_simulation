@@ -1,0 +1,565 @@
+221
+336
+
+
+
+1 17 1
+1 209 2
+2 104 5
+2 175 5
+3 146 8
+3 215 7
+4 54 14
+4 217 1
+5 158 5
+5 181 3
+6 36 6
+6 107 2
+6 148 4
+7 20 15
+7 38 2
+7 137 5
+8 56 1
+8 60 2
+8 116 5
+9 102 12
+9 113 19
+9 135 7
+9 165 19
+10 56 1
+10 141 2
+11 81 2
+11 162 9
+12 82 2
+12 165 10
+13 37 1
+13 149 3
+14 144 130
+14 210 191
+15 101 646
+15 111 183
+15 152 1011
+15 212 923
+16 72 8
+16 90 8
+17 209 1
+18 40 4
+18 42 4
+19 21 1
+19 113 4
+19 220 1
+20 83 21
+20 92 14
+20 112 34
+20 203 8
+21 73 2
+21 105 2
+21 130 2
+22 58 11
+22 102 9
+23 106 6
+23 124 4
+24 103 1
+24 134 1
+25 26 3
+25 39 2
+25 112 8
+25 181 2
+26 194 6
+27 40 13
+27 42 12
+27 54 28
+27 59 29
+28 119 11
+28 120 28
+29 43 5
+29 93 1
+30 48 1
+30 219 1
+31 109 9
+31 161 29
+31 162 25
+32 67 4
+32 147 6
+33 102 31
+33 168 22
+33 187 33
+34 131 6
+34 197 4
+35 132 2
+35 218 2
+36 151 11
+36 167 43
+37 74 1
+37 134 1
+38 163 1
+38 203 1
+39 158 3
+40 42 5
+41 44 1
+41 183 2
+43 49 19
+43 93 2
+43 104 9
+43 146 10
+44 183 2
+45 77 15
+45 119 10
+46 89 1
+46 134 1
+46 196 1
+47 70 15
+47 206 5
+48 176 1
+48 200 1
+48 219 1
+49 146 8
+50 70 15
+50 106 6
+50 191 4
+51 151 12
+51 195 49
+52 153 5
+52 169 1
+52 198 3
+53 114 1
+53 164 3
+53 176 2
+54 59 31
+54 174 17
+54 217 3
+55 126 34
+55 213 28
+56 132 1
+57 79 23
+57 126 30
+58 187 10
+58 212 172
+59 174 18
+59 185 54
+59 212 301
+60 116 6
+61 126 32
+61 144 56
+62 127 34
+62 167 49
+62 195 53
+63 95 67
+63 152 432
+64 140 99
+64 152 175
+65 178 1
+65 193 1
+66 87 1
+66 117 1
+66 180 1
+66 208 2
+67 179 13
+68 142 4417
+68 144 185
+68 213 85
+69 77 6
+69 145 3
+70 120 42
+70 189 4
+70 206 13
+70 216 18
+71 86 18
+71 155 24
+72 79 12
+72 90 9
+72 183 6
+72 205 7
+73 113 7
+73 166 2
+74 141 1
+74 149 1
+75 103 1
+75 154 5
+75 170 1
+76 95 19
+76 98 59
+76 201 14
+77 119 14
+77 174 14
+78 125 1
+78 211 3
+79 126 22
+79 163 4
+80 168 2
+80 187 3
+81 216 3
+82 165 6
+82 192 2
+82 214 3
+83 112 18
+83 158 8
+83 181 5
+83 194 9
+83 202 8
+84 162 13
+84 169 2
+84 182 3
+84 207 10
+85 110 1
+85 143 1
+85 171 1
+86 152 130
+86 155 27
+87 161 4
+88 124 2
+88 184 10
+89 132 1
+89 218 1
+90 139 9
+90 184 18
+91 161 25
+91 190 26
+91 210 84
+92 137 5
+92 202 5
+94 102 8
+94 113 12
+95 165 22
+95 201 16
+96 109 2
+96 117 2
+96 207 5
+97 100 2
+97 136 3
+97 198 2
+98 121 75
+98 201 51
+99 123 5
+99 172 1
+99 189 2
+100 120 11
+101 111 105
+101 190 78
+101 210 259
+102 129 6
+102 156 5
+103 170 1
+104 175 7
+104 215 7
+105 155 11
+107 145 2
+107 167 16
+108 157 2
+108 178 2
+108 193 1
+110 143 1
+110 199 1
+112 158 13
+112 194 14
+113 220 4
+114 147 2
+114 176 1
+115 133 1
+115 159 1
+115 175 5
+115 215 6
+116 139 10
+116 147 12
+116 184 21
+117 207 4
+118 122 2
+118 150 1
+119 138 5
+119 174 9
+120 136 20
+120 186 16
+120 216 22
+121 190 22
+122 150 1
+123 172 1
+124 161 6
+125 202 4
+125 211 5
+127 195 103
+128 131 9
+128 155 19
+128 177 4
+129 156 3
+129 168 4
+130 155 9
+131 155 17
+131 158 8
+133 173 1
+135 156 3
+136 162 9
+136 198 5
+138 188 4
+139 184 17
+139 208 7
+140 213 73
+142 144 2085
+142 152 6822
+143 171 1
+145 167 22
+146 215 7
+147 179 20
+148 151 8
+149 209 2
+150 201 2
+151 167 38
+153 198 4
+154 207 21
+154 208 19
+154 221 7
+157 193 1
+158 194 7
+158 197 6
+158 211 9
+159 173 1
+159 215 1
+160 204 1
+160 207 3
+161 208 11
+163 205 2
+164 183 4
+165 201 16
+166 177 1
+167 195 152
+172 189 1
+174 188 7
+178 193 1
+179 183 16
+180 208 4
+182 204 1
+184 208 16
+185 212 507
+186 188 4
+190 191 6
+192 214 4
+196 200 1
+199 221 1
+200 218 1
+200 219 1
+204 207 3
+207 208 8
+211 213 15
+
+
+
+1462 0 43 saint-vincent-des-landes
+2553 0 50 corcoue-sur-logne
+4006 0 848 indre
+3212 0 219 saint-malo-de-guersac
+2636 0 151 maisdon-sur-sevre
+2209 0 178 piriac-sur-mer
+2876 0 119 landreau
+1783 0 94 mouzeil
+5437 0 130 sainte-pazanne
+2163 0 39 joue-sur-erdre
+3007 0 43 guenrouet
+2584 0 168 brains
+2940 0 50 erbray
+17805 0 410 carquefou
+43153 0 1437 saint-herblain
+3355 0 151 oudon-44
+786 0 41 treffieux
+2116 0 64 saint-viaud
+1152 0 63 saint-meme-le-tenu
+8425 0 142 vallet
+1364 0 76 marne
+4135 0 65 saint-pere-en-retz
+3230 0 49 fay-de-bretagne
+353 0 14 juigne-des-moutiers
+2019 0 109 saint-hilaire-de-clisson
+2684 0 101 boussay-44
+6748 0 139 donges
+4843 0 81 missillac
+1740 0 60 teille-44
+780 0 41 chapelle-saint-sauveur-44
+9434 0 92 blain
+2290 0 57 couffe
+14101 0 149 pornic
+2382 0 97 planche
+1349 0 44 pannece
+4582 0 247 turballe
+433 0 19 petit-auverne
+1140 0 87 remaudiere
+1695 0 79 remouille
+3206 0 1603 paimboeuf
+822 0 59 montrelais
+2742 0 116 corsept
+6258 0 151 suce-sur-erdre
+982 0 156 fresne-sur-loire
+4326 0 175 saint-lyphard
+822 0 23 chapelle-glain
+3103 0 135 prinquiau
+1014 0 48 rouxiere
+4837 0 142 grandchamps-des-fontaines
+3161 0 101 malville
+4979 0 1134 pouliguen
+2437 0 31 avessac
+2407 0 65 saint-herblon
+6793 0 184 montoir-de-bretagne
+8091 0 588 basse-goulaine
+970 0 42 trans-sur-erdre
+7052 0 155 loroux-bottereau
+4435 0 176 saint-michel-chef-chef
+7264 0 505 trignac
+2268 0 64 touches
+7674 0 601 thouare-sur-loire
+5336 0 215 saint-andre-des-eaux-44
+18194 0 577 bouguenais
+7444 0 571 sorinieres
+1678 0 30 sion-les-mines
+960 0 47 puceul
+2692 0 358 saint-gereon
+25017 0 2145 saint-sebastien-sur-loire
+1789 0 54 asserac
+7565 0 290 savenay
+5017 0 154 chevroliere
+3713 0 103 cellier
+1909 0 53 paulx
+805 0 23 grand-auverne
+653 0 31 villepot
+5131 0 450 saint-jean-de-boiseau
+5817 0 81 herbignac
+1194 0 200 saint-fiacre-sur-maine
+5195 0 234 chapelle-basse-mer
+1256 0 257 prefailles
+1280 0 72 quilly-44
+1518 0 233 saint-leger-les-vignes
+4189 0 265 gorges-44
+5035 0 47 guemene-penfao
+485 0 22 ferce
+5684 0 259 pont-saint-martin
+1377 0 134 chevallerais
+2089 0 129 casson
+561 0 35 bonnoeuvre
+4027 0 132 saint-mars-du-desert-44
+7965 0 274 treillieres
+2594 0 157 mouzillon
+650 0 21 saint-sulpice-des-landes-44
+3408 0 64 bourgneuf-en-retz
+5985 0 1644 montagne-44
+1940 0 53 vay
+1557 0 69 severac
+18591 0 422 coueron
+2983 0 80 cordemais
+1843 0 130 dreffeac
+24504 0 885 orvault
+3761 0 95 arthon-en-retz
+2013 0 37 soudan-44
+3524 0 438 geneston
+2139 0 72 limouziniere
+2863 0 60 bouvron-44
+1727 0 103 mesquer
+3246 0 51 derval
+1557 0 29 gavre
+719 0 21 ruffigne
+6901 0 399 sautron
+6732 0 595 clisson
+5914 0 88 machecoul
+873 0 74 pouille-les-coteaux
+2862 0 162 chateau-thebaud
+4592 0 101 ligne-44
+1548 0 72 grigonnais
+1415 0 72 vue
+3772 0 208 chapelle-des-marais
+9683 0 173 pontchateau
+6611 0 114 saint-etienne-de-montluc
+2663 0 70 rouans
+2977 0 52 frossay
+1970 0 52 notre-dame-des-landes
+1932 0 197 monnieres-44
+6820 0 214 saint-julien-de-concelles
+10451 0 824 pornichet
+4290 0 67 lege-44
+2515 0 61 chauve
+1891 0 107 saint-lumine-de-coutais
+3905 0 75 vieillevigne-44
+2127 0 42 riaille
+1316 0 137 moutiers-en-retz
+924 0 36 saint-julien-de-vouvantes
+1967 0 56 saint-hilaire-de-chaleons
+3454 0 103 saint-gildas-des-bois
+3045 0 226 chapelle-heulin
+2135 0 108 sainte-reine-de-bretagne
+3462 0 133 petit-mars
+21443 0 600 vertou
+1345 0 48 meilleraye-de-bretagne
+284970 0 4371 nantes
+2253 0 40 rouge-44
+11907 0 1039 sainte-luce-sur-loire
+2324 0 101 saint-molf
+3506 0 195 saint-aignan-grandlieu
+4394 0 88 mesanger
+3071 0 331 batz-sur-mer
+1920 0 38 moisdon-la-riviere
+844 0 101 cheix-en-retz
+4050 0 900 croisic
+38425 0 2788 reze
+3109 0 139 saint-nicolas-de-redon
+12022 0 357 chateaubriant
+8061 0 137 saint-philbert-de-grand-lieu
+2259 0 60 chemere
+943 0 34 pierric
+3320 0 227 aigrefeuille-sur-maine
+913 0 97 boissiere-du-dore
+1098 0 33 jans
+5276 0 71 heric
+4631 0 44 plesse
+1284 0 109 barbechat
+1910 0 128 anetz
+5958 0 430 bouaye
+1483 0 54 saint-etienne-de-mer-morte
+15534 0 190 guerande
+2564 0 421 bernerie-en-retz
+643 0 34 masserac
+582 0 75 noyal-sur-brutz
+397 0 35 soulvache
+758 0 46 lavau-sur-loire
+2588 0 99 sainte-anne-sur-brivet
+4046 0 46 saint-joachim
+3129 0 87 saint-colomban
+1131 0 76 roche-blanche-44
+1627 0 41 touvois
+1019 0 28 lusanger
+7551 0 376 ancenis
+1916 0 31 abbaretz
+1959 0 107 saint-lumine-de-clisson
+1046 0 31 conquereuil
+3514 0 76 varades
+7781 0 116 nort-sur-erdre
+12248 0 634 saint-brevin-les-pins
+2646 0 150 besne
+3835 0 233 plaine-sur-mer
+2739 0 105 crossac
+860 0 40 bouee
+5438 0 99 vigneux-de-bretagne
+1850 0 1156 temple-de-bretagne
+2505 0 72 saint-mars-de-coutais
+388 0 39 mouais
+3397 0 141 getigne
+16040 0 722 baule-escoublac
+729 0 22 vritz
+2976 0 105 montbert
+2278 0 51 fegreac
+1615 0 33 saint-aubin-des-chateaux
+1011 0 41 maumusson-44
+4382 0 142 pellerin
+2948 0 250 pallet
+1544 0 84 regrippiere
+1447 0 52 marsac-sur-don
+3033 0 205 mauves-sur-loire
+2778 0 111 chapelle-launay
+3835 0 66 nozay-44
+3537 0 61 saffre
+1827 0 47 isse-44
+17300 0 517 chapelle-sur-erdre
+4358 0 369 haie-fouassiere
+67031 0 1432 saint-nazaire-44
+5530 0 268 haute-goulaine
+2724 0 83 port-saint-pere
+3309 0 120 bignon
+3805 0 76 campbon
+731 0 29 pin-44
+2445 0 121 saint-mars-la-jaille
+1765 0 53 belligne
+1235 0 60 fresnay-en-retz
+898 0 49 louisfert

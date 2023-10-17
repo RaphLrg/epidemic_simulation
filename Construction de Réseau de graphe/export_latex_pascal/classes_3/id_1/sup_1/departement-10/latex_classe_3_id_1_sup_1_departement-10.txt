@@ -1,0 +1,1513 @@
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (1) at (11.9078069192648,8.60025695816334) {};%montmorency-beaufort
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (2) at (6.11948782571497,0.261134711064057) {};%lignieres-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (3) at (6.97851279557777,0.522269797370023) {};%prusy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (6) at (7.86495455535142,0.261134711064057) {};%etourvy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (8) at (13.7189406480315,4.43147767619058) {};%fontaine-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (10) at (10.6381462604987,3.64963610042619) {};%magnant
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (12) at (7.13135989500809,10.6862102823028) {};%herbisse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (13) at (6.94076218168961,1.96085829677465) {};%granges-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (14) at (6.49372764397135,3.12736592781553) {};%cresantignes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (15) at (9.40702415551675,0.781841200523763) {};%bagneux-la-fosse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (17) at (10.7590898310817,7.55884397924662) {};%precy-saint-martin
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (21) at (12.2180363972595,3.38850101412009) {};%vitry-le-croise
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (22) at (7.28574132026611,7.81841538240036) {};%aubeterre
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (23) at (6.26708342085382,0.781841200523763) {};%bernon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (25) at (9.9428295568159,3.64963610042619) {};%poligny-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (26) at (13.4655293793709,5.73402574141327) {};%levigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (29) at (6.22081653131995,9.60101417514251) {};%bessy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (30) at (10.4282362102276,7.29770889294065) {};%pel-et-der
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (32) at (14.7608464343,4.43147767619058) {};%lignol-le-chateau
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (33) at (11.4614433809234,4.43147767619058) {};%puits-et-nuisement
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (34) at (10.1463343121309,3.12736592781553) {};%bourguignons
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (35) at (7.0155285965655,3.12736592781553) {};%maupas-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (37) at (5.46234660002188,9.6432336202337) {};%charny-le-bachot
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (38) at (8.98626081443976,2.0859529488974) {};%villiers-sous-praslin
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (40) at (5.72950563748998,7.81841538240036) {};%chauchigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (41) at (5.97989930383436,9.6432336202337) {};%rheges
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (42) at (10.5860836755999,7.55884397924662) {};%precy-notre-dame
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (44) at (2.24575770502964,4.69104907934291) {};%vulaines
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (45) at (13.0401031047502,4.17034258988449) {};%couvignon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (46) at (12.78657591877,2.60665943835724) {};%saint-usage-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (47) at (8.55314242336731,9.90436870653839) {};%lhuître
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (48) at (7.80905455591275,1.30411137313301) {};%lagesse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (50) at (8.79779760905299,2.34552435205114) {};%vougrey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (51) at (10.1166848058093,3.64963610042619) {};%fralignes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (55) at (12.3315136976206,7.29770889294065) {};%crespy-le-neuf
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (56) at (4.63224776539825,2.0859529488974) {};%coursan-en-othe
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (57) at (4.38523709656432,7.03657380663596) {};%echemines
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (58) at (12.7163781074818,3.72782025800222) {};%bligny-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (61) at (8.69737838958243,4.17034258988449) {};%fresnoy-le-chateau
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (62) at (7.87755804763301,9.6432336202337) {};%chene
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (63) at (9.43596841758132,3.38850101412009) {};%courtenot
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (65) at (13.9533947564796,6.25473223087157) {};%ville-sur-terre
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (67) at (9.84967931043892,8.3406855550096) {};%brillecourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (68) at (6.6561100383559,9.90436870653839) {};%champigny-sur-aube
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (69) at (2.43163660393187,8.07955046870504) {};%fosse-corduan
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (70) at (6.31111980371727,9.90436870653839) {};%viapres-le-petit
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (71) at (6.46645462298358,3.64963610042619) {};%villery
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (73) at (3.02572264527401,6.51586731717626) {};%saint-lupien
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (74) at (8.03083898705183,3.64963610042619) {};%montceaux-les-vaudes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (78) at (7.50937753236231,3.64963610042619) {};%vendue-mignot
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (79) at (10.7818695769335,4.17034258988449) {};%thieffrain
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (80) at (8.09305081974729,8.86139204446931) {};%mesnil-la-comtesse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (81) at (1.94981137179852,7.29770889294065) {};%fay-les-marcilly
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (82) at (6.97418712825909,3.90920750357993) {};%assenay
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (85) at (6.64314879104457,0.261134711064057) {};%coussegrey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (86) at (14.6847664352159,2.86779452466179) {};%juvancourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (88) at (11.5682161752821,2.60665943835724) {};%viviers-sur-artaut
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (89) at (0.899710844422977,7.55884397924662) {};%bouy-sur-orvin
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (90) at (12.1272942784282,7.81841538240036) {};%maizieres-les-brienne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (93) at (13.1504849478485,5.21331925195357) {};%montier-en-l-isle
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (96) at (4.43729948725165,5.99516082771783) {};%dierrey-saint-julien
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (98) at (10.5686094597252,1.82481786259284) {};%buxeuil-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (100) at (8.23706500794819,9.38209853392774) {};%saint-nabord-sur-aube
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (101) at (5.15472515146406,2.0859529488974) {};%montfey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (102) at (11.577623997189,8.3406855550096) {};%blignicourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (103) at (4.21965615958804,3.38850101412009) {};%nogent-en-othe
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (106) at (5.03297041540711,1.04297628682845) {};%croûtes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (109) at (4.81949365211441,1.82481786259284) {};%racines
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (110) at (4.78040582757352,2.60665943835724) {};%vosnon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (113) at (3.68012969844331,7.29770889294065) {};%saint-flavy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (114) at (10.0373644004314,8.07955046870504) {};%magnicourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (116) at (9.64724252763697,8.86139204446931) {};%dommartin-le-coq
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (117) at (0.471212686843537,9.38209853392774) {};%saint-nicolas-la-chapelle-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (118) at (9.61762646124532,9.38209853392774) {};%vaucogne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (123) at (1.34610063093149,9.122527130774) {};%marnay-sur-seine
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (125) at (8.82742589424777,8.07955046870504) {};%mesnil-lettre
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (126) at (12.1428277261249,7.55884397924662) {};%juzanvigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (127) at (12.310800608188,1.82481786259284) {};%verpillieres-sur-ource
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (131) at (6.3661366067209,8.86139204446931) {};%premierfait
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (133) at (7.22964551962432,8.86139204446931) {};%saint-etienne-sous-barbuise
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (136) at (13.3398235766406,4.95218416564888) {};%ailleville
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (137) at (2.56809024295191,5.21331925195357) {};%planty
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (139) at (8.06445599702451,9.38209853392774) {};%torcy-le-petit-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (140) at (12.9769689399693,5.21331925195357) {};%jaucourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (143) at (12.8022351120777,2.34552435205114) {};%fontette
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (144) at (13.4336293695571,6.25473223087157) {};%fuligny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (145) at (1.65468292347306,9.90436870653839) {};%plessis-barbuise
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (147) at (4.82519890077776,8.60025695816334) {};%mesgrigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (148) at (9.92814409427518,3.90920750357993) {};%marolles-les-bailly
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (150) at (4.00727321804259,4.17034258988449) {};%villemoiron-en-othe
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (152) at (8.4239399212239,9.122527130774) {};%vaupoisson
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (153) at (10.2350126587625,1.56368277628675) {};%balnot-sur-laignes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (154) at (10.5333314695601,5.47289065510718) {};%loge-aux-chevres
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (157) at (10.05231336806,7.81841538240036) {};%molins-sur-aube
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (159) at (11.577623997189,8.3406855550096) {};%courcelles-sur-voire
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (160) at (11.8856012473179,3.12736592781553) {};%eguilly-sous-bois
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (163) at (11.0159677797244,3.12736592781553) {};%buxieres-sur-arce
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (168) at (11.6085490508361,7.81841538240036) {};%perthes-les-brienne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (169) at (8.37484764216248,10.8910527751524) {};%trouans
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (173) at (9.49424423170299,2.34552435205114) {};%villemorien
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (175) at (9.69168250079908,8.07955046870504) {};%verricourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (176) at (10.9223388598835,8.61433010652711) {};%braux-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (177) at (10.5559391073505,8.07955046870504) {};%chalette-sur-voire
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (178) at (7.31372551248107,7.29770889294065) {};%feuges
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (179) at (9.50400742842617,8.3406855550096) {};%coclois
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (181) at (0.357337776255513,8.07955046870504) {};%fontenay-de-bossery
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (183) at (12.0630759885216,5.99516082771783) {};%juvanze
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (187) at (5.82468434260558,2.60665943835724) {};%montigny-les-monts
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (188) at (9.00021498659315,8.07955046870504) {};%avant-les-ramerupt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (190) at (1.80624737378308,7.34618307063819) {};%charmoy-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (194) at (8.53485328411858,0.781841200523763) {};%balnot-la-grange
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (195) at (6.08814906231865E-7,8.3406855550096) {};%courceroy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (197) at (11.1213262039493,1.30411137313301) {};%courteron
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (198) at (13.5293755168449,4.69104907934291) {};%proverville
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (199) at (11.2503643192177,2.0859529488974) {};%polisy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (200) at (11.5585133076809,5.73402574141327) {};%amance-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (201) at (14.3121060240351,6.47677523838824) {};%thil-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (202) at (6.73099561116658,11.7276232612208) {};%semoine
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (203) at (8.88552070708267,7.03657380663596) {};%bouy-luxembourg
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (204) at (10.9981879145426,9.38209853392774) {};%saint-leger-sous-margerie
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (205) at (8.35179591525027,10.4250751959967) {};%grandville-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (206) at (7.17762139341213,0.387793046337752) {};%chaserey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (207) at (12.8349621806374,4.69104907934291) {};%fravaux
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (209) at (10.2607467800958,4.17034258988449) {};%villy-en-trodes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (211) at (9.86457530808588,8.07955046870504) {};%pougy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (215) at (8.62375348631855,11.7276232612208) {};%poivres
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (216) at (3.38479723802898,6.25473223087157) {};%faux-villecerf
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (217) at (14.6791418000552,5.73402574141327) {};%thors-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (218) at (10.8408439353853,9.122527130774) {};%balignicourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (219) at (7.59302261675635,2.0859529488974) {};%metz-robert
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (220) at (13.0715982849523,3.64963610042619) {};%urville-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (223) at (14.74457281601,4.69104907934291) {};%rouvres-les-vignes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (224) at (10.7288319146373,8.07955046870504) {};%betignicourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (226) at (12.2845560353946,8.07955046870504) {};%hampigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (227) at (10.7894229416245,7.03657380663596) {};%blaincourt-sur-aube
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (228) at (4.62612546235547,9.122527130774) {};%saint-oulph
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (229) at (8.95645611987027,8.86139204446931) {};%chaudrey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (230) at (8.59660551613292,9.122527130774) {};%ortillon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (232) at (5.11528861987763,2.86779452466179) {};%eaux-puiseaux
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (234) at (9.34906520286354,1.82481786259284) {};%arrelles
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (235) at (11.1507414291205,6.77700240348222) {};%mathaux
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (236) at (0.184444968968707,8.07955046870504) {};%gumery
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (238) at (10.9473213265188,7.29770889294065) {};%epagne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (239) at (6.94181002116534,3.37130049945315) {};%longeville-sur-mogne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (240) at (11.7625650623882,5.21331925195357) {};%vauchonvilliers
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (241) at (2.25874379664507,8.07955046870504) {};%saint-loup-de-buffigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (242) at (8.47802189332133,1.82481786259284) {};%praslin
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (243) at (12.1116632281078,8.07955046870504) {};%vallentigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (244) at (2.18447830569619,9.6432336202337) {};%perigny-la-rose
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (245) at (6.84156015897069,3.12736592781553) {};%machy-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (246) at (14.5383007445218,5.21331925195357) {};%colombe-la-fosse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (247) at (8.38861552068103,0.261134711064057) {};%villiers-le-bois
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (249) at (13.766914988635,3.64963610042619) {};%arconville
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (251) at (5.15738990910494,8.86139204446931) {};%droupt-sainte-marie
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (252) at (11.7504599381954,8.3406855550096) {};%rances
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (253) at (11.0309791013134,2.86779452466179) {};%ville-sur-arce
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (254) at (14.2237888530525,4.69104907934291) {};%voigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (255) at (12.0804826730448,8.60025695816334) {};%villeret-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (256) at (9.89858470152066,4.43147767619058) {};%briel-sur-barse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (257) at (10.9169579134105,7.81841538240036) {};%saint-christophe-dodinicourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (258) at (2.76654166798717,4.69104907934291) {};%saint-benoist-sur-vanne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (260) at (13.2296990034917,3.90920750357993) {};%bergeres
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (261) at (10.4955127455672,9.122527130774) {};%donnement
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (262) at (8.46989539298857,1.54804594477216) {};%pargues
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (264) at (6.93744816304048,1.30411137313301) {};%turgy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (266) at (12.3627673266255,6.77700240348222) {};%chaumesnil
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (270) at (8.22167394884638,6.51586731717626) {};%assencieres
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (271) at (11.6658210346836,3.90920750357993) {};%longpre-le-sec
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (272) at (14.8688860416271,5.47289065510718) {};%saulcy-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (273) at (5.86478743531635,1.82481786259284) {};%davrey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (279) at (12.834748565115,7.55884397924662) {};%epothemont
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (280) at (2.48133486202253,7.03657380663596) {};%avon-la-peze
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (282) at (7.13400999906925,4.17034258988449) {};%villemereuil
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (283) at (10.4046717390998,4.69104907934291) {};%champ-sur-barse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (284) at (6.82781228858461,3.38850101412009) {};%lirey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (285) at (7.11736489734529,10.9457816854564) {};%villiers-herbisse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (287) at (3.87879381402253,6.77700240348222) {};%prunay-belleville
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (288) at (12.2644366612539,2.60665943835724) {};%noe-les-mallets
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (289) at (11.7779816635851,4.95218416564888) {};%magny-fouchard
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (290) at (11.5377687323187,3.12736592781553) {};%chervey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (291) at (7.1595076792905,10.1639401096921) {};%allibaudieres
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (292) at (7.57914659662831,2.34552435205114) {};%loges-margueron
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (294) at (8.15778079062246,1.30411137313301) {};%maisons-les-chaource
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (295) at (12.0320728778081,6.51586731717626) {};%rothiere
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (296) at (13.9832450509127,5.96075979838394) {};%fresnay
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (301) at (12.6927226483782,4.17034258988449) {};%meurville
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (302) at (8.33732133148642,10.6862102823028) {};%dosnon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (303) at (7.33552228336891,3.64963610042619) {};%villy-le-bois
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (304) at (5.9116967172145,10.9457816854564) {};%salon-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (307) at (11.2014342355265,8.86139204446931) {};%pars-les-chavanges
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (309) at (5.01987225994095,1.30411137313301) {};%courtaoult
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (313) at (5.98821051878652,10.6909013317568) {};%champfleury-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (315) at (12.4409713190707,5.47289065510718) {};%bossancourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (317) at (12.3945235536426,9.122527130774) {};%joncreuil
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (318) at (11.1416845117335,7.96696528179512) {};%lassicourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (319) at (4.7934645677986,2.34552435205114) {};%villeneuve-au-chemin
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (320) at (5.54308484544649,8.07955046870504) {};%rilly-sainte-syre
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (321) at (9.01482291287595,7.81841538240036) {};%longsols
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (324) at (12.1905317495837,9.6432336202337) {};%arrembecourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (326) at (7.0290090208771,9.38209853392774) {};%villette-sur-aube
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (328) at (1.96295111264053,9.64792466968782) {};%villeneuve-au-chatelot
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (330) at (0.231193056763349,7.03657380663596) {};%louptiere-thenard
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (331) at (11.8743332087895,6.25473223087157) {};%unienville
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (332) at (14.017856809671,5.21331925195357) {};%engente
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (333) at (1.85281173419576,6.65972616711677) {};%bourdenay
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (336) at (1.84982198410515,5.73402574141327) {};%pouy-sur-vannes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (339) at (8.40957047417438,9.38209853392774) {};%vinets
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (344) at (8.63797738888826,2.0859529488974) {};%lantages
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (348) at (6.73583074485855,1.82481786259284) {};%loge-pomblin
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (349) at (2.80384587810398,3.90920750357993) {};%berulle
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (351) at (1.82550107726133,6.25473223087157) {};%bercenay-le-hayer
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (352) at (11.2320557960047,8.3406855550096) {};%rosnay-l-hopital
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (354) at (9.04394002210247,7.29770889294065) {};%onjon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (356) at (1.28166966577326,6.77700240348222) {};%trancault
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (359) at (9.10124662314613,-3.75240630247962E-7) {};%channes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (360) at (12.2052019752431,6.51586731717626) {};%petit-mesnil
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (362) at (4.42432801187399,6.25473223087157) {};%dierrey-saint-pierre
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (363) at (12.4260414744268,8.60025695816334) {};%lentilles
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (364) at (12.4721683325412,4.95218416564888) {};%argancon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (367) at (5.11734596766052,9.6432336202337) {};%longueville-sur-aube
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (370) at (11.9823962740577,4.43147767619058) {};%montmartin-le-haut
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (372) at (14.5546242166152,4.95218416564888) {};%colombe-le-sec
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (373) at (13.0553683944806,6.77700240348222) {};%chaise-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (375) at (12.6300410129977,5.21331925195357) {};%dolancourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (379) at (4.7445711200828,6.77700240348222) {};%villeloup
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (380) at (13.3560943913899,1.82481786259284) {};%cunfin
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (381) at (12.7720217074154,5.73402574141327) {};%eclance
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (382) at (14.3486111685811,5.47289065510718) {};%maisons-les-soulaines
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (383) at (11.9008936685537,2.86779452466179) {};%chacenay
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (384) at (6.95116733991321,1.04297628682845) {};%vallieres-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (385) at (6.42109677491563,7.81841538240036) {};%chapelle-vallon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (387) at (5.0906595724249,10.1639401096921) {};%boulages
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (388) at (12.1251270594602,4.95218416564888) {};%maison-des-champs
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (390) at (9.47452002250011,8.86139204446931) {};%morembert
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (391) at (7.04292589787544,9.122527130774) {};%nozay-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (392) at (2.62946105042968,7.55884397924662) {};%rigny-la-nonneuse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (393) at (2.87749574657141,5.99516082771783) {};%villadin
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (394) at (13.2761873511067,5.99516082771783) {};%vernonvilliers
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (395) at (6.29259937399017,3.64963610042619) {};%javernant
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (398) at (0.911641139216243,7.29770889294065) {};%soligny-les-etangs
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (401) at (6.38743432691731,1.82481786259284) {};%avreuil
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (402) at (12.2519169586864,5.73402574141327) {};%trannes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (403) at (11.1445283784142,3.90920750357993) {};%beurey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (404) at (7.18755678291028,9.6432336202337) {};%ormes-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (406) at (6.49372764397135,3.12736592781553) {};%fays-la-chapelle
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (407) at (11.4004215729785,5.47289065510718) {};%ville-aux-bois-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (408) at (11.7117371699135,3.12736592781553) {};%bertignolles
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (409) at (12.7397511648194,9.122527130774) {};%bailly-le-franc
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (410) at (9.99258392512996,8.86139204446931) {};%jasseines
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (412) at (14.017856809671,5.21331925195357) {};%arrentieres
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (413) at (9.23098891568499,0.548852410945213) {};%bragelogne-beauvoir
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (415) at (7.46043291815405,1.30411137313301) {};%cussangy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (416) at (9.53788933402589,1.56368277628675) {};%avirey-lingey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (417) at (7.14788184132804,3.90920750357993) {};%villy-le-marechal
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (419) at (6.79846753395742,4.16721522358131) {};%roncenay
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (422) at (8.75027325521229,9.25700388180639) {};%isle-aubigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (423) at (12.6614369641799,4.69104907934291) {};%spoy-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (424) at (10.1952475116233,8.3406855550096) {};%aulnay-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (425) at (11.0440135627209,8.60025695816334) {};%yevres-le-petit
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (429) at (9.73962398325803,4.17034258988449) {};%chauffour-les-bailly
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (431) at (7.24369592280753,8.60025695816334) {};%saint-remy-sous-barbuise
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (433) at (4.58658253602504,9.90436870653839) {};%etrelles-sur-aube
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (4) at (7.73025315765992,5.99516082771783) {};%villechetif
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (5) at (4.68905577017782,4.43147767619058) {};%chennegy
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (7) at (12.5203092419086,7.03657380663596) {};%morvilliers-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (9) at (6.58555462514723,4.69104907934291) {};%saint-pouange
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (11) at (3.07602360424262,5.47289065510718) {};%palis
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (18) at (4.30293805538387,5.21331925195357) {};%estissac
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (19) at (5.05102831248976,7.55884397924662) {};%fontaine-les-gres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (20) at (6.81406082867954,3.64963610042619) {};%saint-jean-de-bonneval
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (24) at (9.77532030197252,9.6432336202337) {};%dampierre-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (27) at (7.34169526833221,6.77700240348222) {};%vailly-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (28) at (6.12966937082722,6.77700240348222) {};%saint-lye
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (31) at (7.10633858810477,4.69104907934291) {};%saint-leger-pres-troyes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (36) at (4.46660350133824,8.86139204446931) {};%chatres-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (39) at (7.71934151987449,9.38209853392774) {};%torcy-le-grand-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (43) at (11.6701662587703,6.77700240348222) {};%brienne-la-vieille
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (49) at (7.44449086583591,8.07955046870504) {};%montsuzain
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (52) at (2.20922144819412,9.122527130774) {};%crancey
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (53) at (11.2933434650385,7.29770889294065) {};%saint-leger-sous-brienne
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (59) at (14.4297291547979,4.17034258988449) {};%bayel
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (64) at (3.2873256309447,4.69104907934291) {};%paisy-cosdon
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (66) at (10.7578290114971,1.56368277628675) {};%neuville-sur-seine
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (72) at (1.66692560188372,9.6432336202337) {};%barbuise
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (75) at (8.91450209566474,6.51586731717626) {};%rouilly-sacey
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (77) at (9.86834625017803,7.40716671354727) {};%val-d-auzon
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (83) at (3.75694207674477,5.73402574141327) {};%mesnil-saint-loup
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (84) at (7.49547978452846,3.90920750357993) {};%bordes-aumont
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (87) at (2.78988018177127,7.81841538240036) {};%saint-martin-de-bossenay
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (91) at (0.863972952190035,8.3406855550096) {};%fontaine-macon
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (92) at (7.54292033340929,6.25473223087157) {};%creney-pres-troyes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (94) at (5.83736107166116,5.73402574141327) {};%montgueux
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (95) at (7.26602862235605,4.95218416564888) {};%breviandes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (97) at (9.62453335953664,3.12736592781553) {};%virey-sous-bar
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (99) at (11.6899383285488,0.522269797370023) {};%mussy-sur-seine
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (104) at (10.9320314202284,1.56368277628675) {};%gye-sur-seine
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (105) at (5.47662631354543,2.60665943835724) {};%auxon-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (107) at (1.38237709438079,8.3406855550096) {};%saint-aubin-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (108) at (4.81194489883136,8.86139204446931) {};%mery-sur-seine
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (111) at (11.5986477447693,2.0859529488974) {};%loches-sur-ource
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (112) at (9.30190113014384,8.86139204446931) {};%nogent-sur-aube
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (115) at (10.190690854353,2.34552435205114) {};%polisot
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (119) at (3.93561924876057,5.03975042213456) {};%neuville-sur-vanne
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (120) at (6.66759172137575,3.12736592781553) {};%jeugny
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (121) at (10.2850680080261,6.77700240348222) {};%brevonnes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (122) at (5.76998767723198,7.03657380663596) {};%payns
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (124) at (6.28924318220712,7.03657380663596) {};%mergey
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (128) at (6.66288855777459,6.51586731717626) {};%sainte-maure
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (129) at (2.04226287550986,8.08893256761457) {};%ferreux-quincey
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (130) at (11.6393656035581,7.29770889294065) {};%brienne-le-chateau
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (132) at (13.7478655773698,6.77700240348222) {};%soulaines-dhuys
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (134) at (5.17030991720619,5.21331925195357) {};%messon
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (135) at (8.56661781666418,3.38850101412009) {};%rumilly-les-vaudes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (138) at (1.86399383701731,9.122527130774) {};%pont-sur-seine
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (141) at (15.0000000506925,3.38850101412009) {};%longchamp-sur-aujon
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (142) at (6.57184195339998,4.95218416564888) {};%saint-germain-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (146) at (8.43788481530644,5.73402574141327) {};%laubressel
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (149) at (1.36956644011941,10.2874710786625) {};%villenauxe-la-grande
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (155) at (8.40926528033173,6.25473223087157) {};%mesnil-sellieres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (156) at (5.98530758104171,2.86779452466179) {};%chamoy
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (158) at (5.03632296874113,4.43147767619058) {};%bercenay-en-othe
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (161) at (6.50338955956414,6.25473223087157) {};%barberey-saint-sulpice
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (162) at (6.57529818961929,1.56368277628675) {};%vanlay
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (164) at (8.30725656439308,4.95218416564888) {};%montaulin
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (165) at (3.84166323795328,9.04434297319797) {};%maizieres-la-grande-paroisse
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (166) at (13.7887437036546,4.04993898721727) {};%baroville
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (167) at (7.81860788551315,7.55884397924662) {};%charmont-sous-barbuise
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (170) at (12.2519169586864,5.73402574141327) {};%jessains
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (171) at (8.1053126920291,5.47289065510718) {};%thennelieres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (172) at (5.9449931682942,3.64963610042619) {};%sommeval
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (174) at (3.33400374290029,7.29770889294065) {};%marigny-le-chatel
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (180) at (1.59163168341298,7.55884397924662) {};%avant-les-marcilly
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (182) at (11.0990850753074,4.69104907934291) {};%vendeuvre-sur-barse
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (184) at (0.964909406946203,9.90436870653839) {};%montpothier
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (185) at (10.2310423658498,4.69104907934291) {};%villeneuve-au-chene
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (186) at (11.318174662673,2.16882815592896) {};%landreville
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (189) at (9.59246694017093,6.77700240348222) {};%piney
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (192) at (10.3498564317941,2.60665943835724) {};%merrey-sur-arce
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (193) at (8.12191153395785,11.468051858067) {};%mailly-le-camp
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (208) at (6.68389454372723,9.38209853392774) {};%pouan-les-vallees
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (210) at (7.77252959146061,5.21331925195357) {};%rouilly-saint-loup
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (212) at (6.53076472266669,5.73402574141327) {};%noes-pres-troyes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (213) at (4.20675355523255,3.64963610042619) {};%saint-mards-en-othe
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (214) at (7.45359733460484,4.69104907934291) {};%bucheres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (221) at (5.52966548414974,1.56368277628675) {};%ervy-le-chatel
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (222) at (2.57958492635021,8.60025695816334) {};%gelannes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (225) at (5.34343345593967,8.60025695816334) {};%droupt-saint-basle
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (231) at (9.08824904246343,3.38850101412009) {};%foucheres-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (233) at (11.8766303475569,9.122527130774) {};%chavanges
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (237) at (6.90515772963815,5.21331925195357) {};%rosieres-pres-troyes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (248) at (6.26550674585943,4.17034258988449) {};%souligny
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (250) at (11.3259466031603,0.781841200523763) {};%plaines-saint-lange
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (259) at (8.19046715386678,3.90920750357993) {};%vaudes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (263) at (7.39767531784824,5.73402574141327) {};%saint-parres-aux-tertres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (265) at (5.59582686038536,0.261134711064057) {};%marolles-sous-lignieres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (267) at (7.76711208179355,2.0859529488974) {};%chaource
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (268) at (11.6856068448859,6.51586731717626) {};%dienville
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (269) at (5.70418670930053,4.95218416564888) {};%prugny
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (274) at (12.9769689399693,5.21331925195357) {};%arsonval
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (275) at (7.67653666287375,0.522269797370023) {};%chesley
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (277) at (8.07684154883906,5.99516082771783) {};%bouranton
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (278) at (9.69552577951104,4.95218416564888) {};%mesnil-saint-pere
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (281) at (3.62882960415003,8.3406855550096) {};%origny-le-sec
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (286) at (4.72821500992192,3.64963610042619) {};%maraye-en-othe
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (293) at (5.92942932435591,7.29770889294065) {};%villacerf
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (297) at (3.47346428933837,4.43147767619058) {};%aix-en-othe
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (298) at (2.33289449845565,6.51586731717626) {};%marcilly-le-hayer
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (299) at (9.37763180838626,4.43147767619058) {};%montreuil-sur-barse
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (300) at (8.71175981013616,3.90920750357993) {};%villemoyenne
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (305) at (7.37412349802712,9.38209853392774) {};%arcis-sur-aube
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (306) at (3.27049523529203,8.60025695816334) {};%pars-les-romilly
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (308) at (8.19314541674892,7.03657380663596) {};%luyeres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (310) at (9.11449872221875,9.122527130774) {};%ramerupt
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (311) at (7.68312848906488,3.64963610042619) {};%cormost
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (312) at (8.11945751843225,5.21331925195357) {};%ruvigny
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (314) at (7.29382023584924,4.43147767619058) {};%moussey-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (316) at (6.0647706621897,4.69104907934291) {};%laines-aux-bois
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (322) at (5.09081971152752,6.77700240348222) {};%pavillon-sainte-julie
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (323) at (5.37019203815954,8.07955046870504) {};%saint-mesmin-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (325) at (6.54448807289107,5.47289065510718) {};%riviere-de-corps
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (327) at (4.33304262432143,8.07955046870504) {};%orvilliers-saint-julien
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (329) at (7.25765859948531,8.3406855550096) {};%voue
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (334) at (5.86426985993635,5.21331925195357) {};%torvilliers
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (335) at (5.56994299599818,7.55884397924662) {};%savieres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (337) at (4.82338199023469,5.21331925195357) {};%bucey-en-othe
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (338) at (8.55230044174119,3.64963610042619) {};%saint-parres-les-vaudes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (340) at (6.26550674585943,4.17034258988449) {};%bouilly-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (341) at (2.55455263801216,9.122527130774) {};%saint-hilaire-sous-romilly
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (342) at (5.38369435788303,4.43147767619058) {};%vauchassis
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (343) at (5.31725632293199,5.73402574141327) {};%macey-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (345) at (5.01120608971592,8.3406855550096) {};%vallant-saint-georges
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (346) at (0.816327163993409,9.38209853392774) {};%saulsotte
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (347) at (10.279299691606,0.781841200523763) {};%riceys
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (350) at (6.2208503151038,8.3406855550096) {};%grandes-chapelles
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (353) at (3.44815812728892,4.95218416564888) {};%villemaur-sur-vanne
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (355) at (4.81030786605416,5.47289065510718) {};%fontvannes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (357) at (8.34999793321034,4.17034258988449) {};%clerey
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (358) at (0.380796160914698,7.55884397924662) {};%traînel
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (361) at (8.77012231811336,5.99516082771783) {};%dosches
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (365) at (13.4510041051006,3.12736592781553) {};%champignol-lez-mondeville
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (366) at (7.64108743441254,4.43147767619058) {};%isle-aumont
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (368) at (7.78096768754568,4.68323066358549) {};%verrieres-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (371) at (11.9469311703208,2.0859529488974) {};%essoyes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (374) at (9.00144323334916,4.95218416564888) {};%lusigny-sur-barse
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (376) at (14.5107417641983,2.86779452466179) {};%ville-sous-la-ferte
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (377) at (8.63990145328307,5.21331925195357) {};%courteranges
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (378) at (10.5388619347928,2.34552435205114) {};%celles-sur-ource
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (386) at (7.65513279590698,4.17034258988449) {};%saint-thibault-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (389) at (0.322092280299339,8.86139204446931) {};%meriot
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (396) at (11.497093905531,6.77700240348222) {};%radonvilliers
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (397) at (3.48157506824256,7.81841538240036) {};%ossey-les-trois-maisons
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (399) at (10.1610645340731,2.86779452466179) {};%bar-sur-seine
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (400) at (10.3982126858184,7.81841538240036) {};%lesmont
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (405) at (8.89990664743716,3.64963610042619) {};%chappes-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (411) at (6.4759179622718,6.77700240348222) {};%saint-benoît-sur-seine
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (414) at (5.54285701505451,1.30411137313301) {};%chessy-les-pres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (418) at (7.03697238838547,5.99516082771783) {};%lavau-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (420) at (9.47809431276449,5.73402574141327) {};%geraudot
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (421) at (5.63594728549629,9.95597025053923) {};%plancy-l-abbaye
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (426) at (2.44390482752941,4.17034258988449) {};%rigny-le-ferron
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (427) at (0.172732868992907,8.3406855550096) {};%motte-tilly
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (428) at (9.47965914521785,2.60665943835724) {};%jully-sur-sarce
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (430) at (6.33325252915301,2.86779452466179) {};%saint-phal
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (432) at (9.42629783288729,4.6488296342516) {};%montieramey
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (16) at (7.25208565660978,5.21331925195357) {};%saint-julien-les-villas
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (54) at (6.67667933956418,6.25473223087157) {};%chapelle-saint-luc
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (60) at (6.70416764589295,5.73402574141327) {};%sainte-savine
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (76) at (0.852101860173346,8.60025695816334) {};%nogent-sur-seine
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (151) at (7.21031857743313,5.99516082771783) {};%pont-sainte-marie
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (191) at (3.07244584409799,9.122527130774) {};%romilly-sur-seine
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (196) at (6.71794771556459,5.47289065510718) {};%saint-andre-les-vergers
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (276) at (13.703004890095,4.69104907934291) {};%bar-sur-aube
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (369) at (7.05086947139572,5.73402574141327) {};%troyes
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (1) -- (159);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (1) -- (255);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (2) -- (23);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (2) -- (85);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (2) -- (265);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (3) -- (85);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (3) -- (206);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (3) -- (384);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (4) -- (92);  
+		\draw[route,blue!3,-,>=latex,line width =0.04pt] (4) -- (263);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (4) -- (277);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (5) -- (158);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (5) -- (342);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (6) -- (247);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (6) -- (275);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (7) -- (43);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (7) -- (55);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (7) -- (130);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (7) -- (132);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (7) -- (266);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (7) -- (279);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (7) -- (373);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (8) -- (198);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (8) -- (276);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (9) -- (142);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (9) -- (316);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (10) -- (51);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (10) -- (79);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (11) -- (119);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (11) -- (137);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (11) -- (353);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (11) -- (393);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (12) -- (285);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (12) -- (291);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (13) -- (162);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (13) -- (348);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (14) -- (120);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (14) -- (406);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (15) -- (413);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (15) -- (416);  
+		\draw[route,blue!11,-,>=latex,line width =0.13pt] (16) -- (95);  
+		\draw[route,blue!3,-,>=latex,line width =0.04pt] (16) -- (210);  
+		\draw[route,blue!11,-,>=latex,line width =0.13pt] (16) -- (276);  
+		\draw[route,blue!27,-,>=latex,line width =0.29pt] (16) -- (369);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (17) -- (42);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (17) -- (257);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (18) -- (83);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (18) -- (119);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (18) -- (337);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (19) -- (335);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (19) -- (345);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (20) -- (71);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (20) -- (82);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (20) -- (120);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (20) -- (248);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (21) -- (160);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (21) -- (408);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (22) -- (49);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (22) -- (178);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (23) -- (85);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (24) -- (118);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (24) -- (310);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (24) -- (400);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (25) -- (51);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (25) -- (63);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (25) -- (148);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (26) -- (296);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (26) -- (394);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (27) -- (92);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (27) -- (128);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (27) -- (178);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (28) -- (124);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (28) -- (411);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (29) -- (41);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (29) -- (70);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (30) -- (42);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (30) -- (227);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (31) -- (95);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (31) -- (314);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (32) -- (59);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (32) -- (223);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (33) -- (182);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (33) -- (370);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (34) -- (51);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (34) -- (399);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (35) -- (245);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (35) -- (284);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (36) -- (108);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (36) -- (165);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (36) -- (228);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (36) -- (433);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (37) -- (367);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (37) -- (421);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (38) -- (50);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (38) -- (344);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (39) -- (62);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (39) -- (193);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (39) -- (305);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (39) -- (310);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (39) -- (329);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (40) -- (320);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (40) -- (335);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (40) -- (385);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (41) -- (70);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (42) -- (227);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (43) -- (170);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (43) -- (268);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (43) -- (396);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (44) -- (258);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (44) -- (426);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (45) -- (260);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (45) -- (301);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (46) -- (143);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (46) -- (288);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (47) -- (339);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (47) -- (422);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (48) -- (267);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (48) -- (294);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (48) -- (415);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (49) -- (167);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (49) -- (329);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (49) -- (350);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (50) -- (242);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (50) -- (344);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (51) -- (148);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (52) -- (138);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (52) -- (341);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (53) -- (130);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (53) -- (238);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (53) -- (396);  
+		\draw[route,blue!22,-,>=latex,line width =0.23pt] (54) -- (60);  
+		\draw[route,blue!12,-,>=latex,line width =0.13pt] (54) -- (128);  
+		\draw[route,blue!11,-,>=latex,line width =0.13pt] (54) -- (161);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (55) -- (126);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (55) -- (279);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (56) -- (109);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (56) -- (110);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (56) -- (319);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (57) -- (322);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (57) -- (379);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (58) -- (220);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (58) -- (260);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (58) -- (301);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (59) -- (166);  
+		\draw[route,blue!5,-,>=latex,line width =0.06pt] (59) -- (276);  
+		\draw[route,blue!21,-,>=latex,line width =0.22pt] (60) -- (196);  
+		\draw[route,blue!14,-,>=latex,line width =0.16pt] (60) -- (212);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (61) -- (74);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (61) -- (300);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (62) -- (139);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (62) -- (205);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (63) -- (97);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (64) -- (258);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (64) -- (297);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (64) -- (353);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (64) -- (426);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (65) -- (132);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (65) -- (201);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (65) -- (296);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (66) -- (98);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (66) -- (104);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (66) -- (153);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (66) -- (347);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (66) -- (378);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (67) -- (211);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (67) -- (424);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (68) -- (70);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (68) -- (208);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (68) -- (291);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (69) -- (129);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (69) -- (241);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (71) -- (395);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (72) -- (138);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (72) -- (145);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (72) -- (149);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (72) -- (244);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (72) -- (328);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (73) -- (216);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (73) -- (393);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (74) -- (78);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (74) -- (259);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (75) -- (189);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (75) -- (203);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (75) -- (361);  
+		\draw[route,blue!3,-,>=latex,line width =0.04pt] (76) -- (91);  
+		\draw[route,blue!3,-,>=latex,line width =0.04pt] (76) -- (107);  
+		\draw[route,blue!19,-,>=latex,line width =0.20pt] (76) -- (191);  
+		\draw[route,blue!6,-,>=latex,line width =0.08pt] (76) -- (358);  
+		\draw[route,blue!3,-,>=latex,line width =0.04pt] (76) -- (389);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (76) -- (427);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (77) -- (112);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (77) -- (189);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (77) -- (400);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (78) -- (303);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (78) -- (311);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (79) -- (182);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (79) -- (403);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (80) -- (152);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (80) -- (230);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (81) -- (180);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (81) -- (190);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (82) -- (417);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (82) -- (419);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (83) -- (119);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (84) -- (303);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (84) -- (311);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (84) -- (366);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (84) -- (386);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (85) -- (206);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (86) -- (249);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (86) -- (376);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (87) -- (222);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (87) -- (392);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (87) -- (397);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (88) -- (160);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (88) -- (186);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (88) -- (199);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (88) -- (383);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (89) -- (358);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (89) -- (398);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (90) -- (126);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (90) -- (243);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (91) -- (107);  
+		\draw[route,blue!8,-,>=latex,line width =0.09pt] (92) -- (151);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (92) -- (308);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (93) -- (136);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (93) -- (140);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (93) -- (274);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (94) -- (325);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (94) -- (343);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (96) -- (355);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (96) -- (362);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (97) -- (405);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (97) -- (428);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (98) -- (153);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (98) -- (197);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (99) -- (250);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (99) -- (347);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (100) -- (139);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (100) -- (152);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (100) -- (339);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (101) -- (109);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (101) -- (110);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (101) -- (319);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (102) -- (159);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (102) -- (252);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (103) -- (150);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (103) -- (213);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (104) -- (186);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (104) -- (197);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (104) -- (250);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (104) -- (347);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (105) -- (156);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (105) -- (232);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (105) -- (430);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (106) -- (309);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (106) -- (414);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (108) -- (147);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (108) -- (345);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (110) -- (232);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (110) -- (319);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (111) -- (186);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (111) -- (371);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (112) -- (310);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (112) -- (390);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (112) -- (400);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (113) -- (174);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (113) -- (287);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (114) -- (157);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (114) -- (211);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (114) -- (424);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (115) -- (192);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (115) -- (378);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (116) -- (118);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (116) -- (390);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (116) -- (410);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (117) -- (123);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (117) -- (346);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (119) -- (353);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (120) -- (156);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (120) -- (245);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (120) -- (406);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (120) -- (430);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (121) -- (189);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (121) -- (400);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (122) -- (124);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (122) -- (293);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (122) -- (322);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (123) -- (138);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (123) -- (328);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (124) -- (411);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (125) -- (188);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (125) -- (321);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (126) -- (243);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (127) -- (143);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (127) -- (371);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (127) -- (380);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (128) -- (161);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (128) -- (411);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (129) -- (180);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (129) -- (222);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (129) -- (241);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (130) -- (168);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (130) -- (233);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (130) -- (396);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (131) -- (350);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (131) -- (391);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (132) -- (144);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (132) -- (274);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (133) -- (329);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (133) -- (431);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (134) -- (337);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (134) -- (343);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (134) -- (355);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (135) -- (267);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (135) -- (338);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (135) -- (405);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (136) -- (198);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (137) -- (258);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (138) -- (184);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (139) -- (339);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (140) -- (274);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (141) -- (166);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (141) -- (376);  
+		\draw[route,blue!8,-,>=latex,line width =0.09pt] (142) -- (237);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (143) -- (288);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (143) -- (380);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (144) -- (373);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (144) -- (394);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (145) -- (328);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (146) -- (277);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (146) -- (361);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (147) -- (228);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (147) -- (251);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (148) -- (209);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (149) -- (184);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (149) -- (346);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (150) -- (213);  
+		\draw[route,blue!10,-,>=latex,line width =0.11pt] (151) -- (263);  
+		\draw[route,blue!25,-,>=latex,line width =0.27pt] (151) -- (369);  
+		\draw[route,blue!5,-,>=latex,line width =0.06pt] (151) -- (418);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (152) -- (230);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (152) -- (339);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (154) -- (185);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (154) -- (283);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (155) -- (270);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (155) -- (277);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (155) -- (361);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (156) -- (187);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (156) -- (430);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (157) -- (211);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (158) -- (286);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (158) -- (342);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (159) -- (252);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (159) -- (352);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (160) -- (383);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (160) -- (408);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (162) -- (221);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (162) -- (264);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (162) -- (267);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (162) -- (275);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (162) -- (348);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (162) -- (401);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (162) -- (414);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (163) -- (253);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (163) -- (290);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (164) -- (312);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (164) -- (377);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (165) -- (306);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (166) -- (249);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (166) -- (276);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (166) -- (365);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (167) -- (308);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (167) -- (329);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (168) -- (318);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (169) -- (193);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (169) -- (215);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (169) -- (302);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (170) -- (183);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (170) -- (274);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (170) -- (315);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (170) -- (381);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (170) -- (396);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (170) -- (402);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (171) -- (277);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (171) -- (312);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (172) -- (248);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (172) -- (340);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (172) -- (395);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (172) -- (430);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (173) -- (234);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (173) -- (416);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (173) -- (428);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (174) -- (281);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (174) -- (298);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (174) -- (397);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (175) -- (179);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (175) -- (211);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (176) -- (352);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (176) -- (425);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (177) -- (224);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (177) -- (400);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (179) -- (211);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (180) -- (190);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (180) -- (298);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (180) -- (358);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (181) -- (236);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (181) -- (427);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (182) -- (185);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (182) -- (278);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (183) -- (331);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (183) -- (402);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (184) -- (346);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (185) -- (256);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (185) -- (278);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (185) -- (283);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (185) -- (432);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (186) -- (199);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (186) -- (371);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (187) -- (232);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (188) -- (321);  
+		\draw[route,blue!9,-,>=latex,line width =0.11pt] (191) -- (306);  
+		\draw[route,blue!5,-,>=latex,line width =0.06pt] (191) -- (341);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (192) -- (378);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (192) -- (399);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (193) -- (215);  
+		\draw[route,blue!5,-,>=latex,line width =0.06pt] (193) -- (305);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (194) -- (247);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (194) -- (294);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (194) -- (359);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (195) -- (236);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (195) -- (427);  
+		\draw[route,blue!15,-,>=latex,line width =0.17pt] (196) -- (237);  
+		\draw[route,blue!15,-,>=latex,line width =0.16pt] (196) -- (325);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (198) -- (276);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (200) -- (331);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (200) -- (407);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (201) -- (296);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (202) -- (285);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (202) -- (304);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (203) -- (270);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (203) -- (354);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (204) -- (218);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (204) -- (307);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (205) -- (302);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (206) -- (275);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (207) -- (274);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (207) -- (423);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (208) -- (305);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (208) -- (350);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (208) -- (421);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (209) -- (256);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (209) -- (283);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (210) -- (312);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (211) -- (424);  
+		\draw[route,blue!8,-,>=latex,line width =0.10pt] (212) -- (325);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (213) -- (286);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (213) -- (297);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (214) -- (314);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (214) -- (366);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (216) -- (287);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (216) -- (393);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (217) -- (272);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (217) -- (382);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (218) -- (261);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (218) -- (307);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (219) -- (267);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (219) -- (292);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (220) -- (260);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (220) -- (301);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (221) -- (273);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (221) -- (414);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (222) -- (306);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (222) -- (341);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (223) -- (372);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (224) -- (257);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (225) -- (251);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (225) -- (345);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (225) -- (350);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (225) -- (421);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (226) -- (243);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (226) -- (363);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (227) -- (235);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (227) -- (238);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (229) -- (230);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (229) -- (310);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (230) -- (422);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (231) -- (338);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (231) -- (405);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (233) -- (317);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (233) -- (324);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (233) -- (400);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (234) -- (416);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (235) -- (396);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (236) -- (427);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (239) -- (245);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (239) -- (284);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (240) -- (289);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (240) -- (407);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (242) -- (262);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (242) -- (344);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (243) -- (252);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (244) -- (328);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (245) -- (284);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (246) -- (272);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (246) -- (372);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (246) -- (382);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (248) -- (316);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (248) -- (340);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (249) -- (260);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (253) -- (290);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (254) -- (276);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (254) -- (332);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (254) -- (372);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (255) -- (363);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (256) -- (429);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (257) -- (318);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (258) -- (349);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (259) -- (311);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (259) -- (357);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (261) -- (410);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (262) -- (294);  
+		\draw[route,blue!3,-,>=latex,line width =0.04pt] (263) -- (418);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (264) -- (384);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (264) -- (415);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (265) -- (275);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (265) -- (414);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (266) -- (360);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (267) -- (275);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (267) -- (292);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (268) -- (295);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (268) -- (331);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (268) -- (396);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (269) -- (316);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (269) -- (334);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (269) -- (342);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (271) -- (370);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (271) -- (403);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (273) -- (401);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (274) -- (276);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (274) -- (375);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (278) -- (299);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (278) -- (432);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (280) -- (298);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (280) -- (392);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (281) -- (306);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (281) -- (397);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (282) -- (314);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (282) -- (417);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (282) -- (419);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (285) -- (291);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (288) -- (383);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (289) -- (388);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (290) -- (383);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (290) -- (408);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (291) -- (404);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (293) -- (335);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (295) -- (331);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (295) -- (360);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (296) -- (382);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (297) -- (353);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (297) -- (426);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (298) -- (333);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (298) -- (336);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (299) -- (374);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (299) -- (429);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (299) -- (432);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (300) -- (338);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (300) -- (357);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (300) -- (405);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (304) -- (313);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (304) -- (421);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (305) -- (391);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (305) -- (404);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (307) -- (425);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (309) -- (414);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (311) -- (386);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (313) -- (421);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (314) -- (366);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (314) -- (386);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (315) -- (375);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (315) -- (381);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (316) -- (334);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (316) -- (340);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (317) -- (324);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (317) -- (363);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (317) -- (409);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (318) -- (352);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (320) -- (323);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (321) -- (354);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (322) -- (335);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (322) -- (379);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (323) -- (335);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (323) -- (345);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (323) -- (350);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (326) -- (391);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (326) -- (404);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (327) -- (345);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (327) -- (397);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (329) -- (431);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (330) -- (358);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (330) -- (398);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (331) -- (360);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (332) -- (382);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (332) -- (412);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (333) -- (351);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (333) -- (356);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (335) -- (350);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (336) -- (351);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (337) -- (343);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (337) -- (355);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (338) -- (405);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (339) -- (422);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (343) -- (355);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (346) -- (389);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (348) -- (401);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (349) -- (426);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (350) -- (385);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (352) -- (425);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (356) -- (398);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (358) -- (398);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (358) -- (427);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (359) -- (413);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (361) -- (420);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (362) -- (379);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (363) -- (409);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (364) -- (375);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (364) -- (388);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (364) -- (423);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (365) -- (376);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (366) -- (368);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (366) -- (386);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (367) -- (387);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (368) -- (386);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (370) -- (388);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (374) -- (377);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (374) -- (420);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (374) -- (432);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (378) -- (399);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (381) -- (394);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (382) -- (412);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (383) -- (408);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (384) -- (415);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (387) -- (433);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (389) -- (427);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (390) -- (410);  
+		\draw[route,blue!0,-,>=latex,line width =0.01pt] (399) -- (428);  
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (1) at (11.9078069192648,8.60025695816334) {};%montmorency-beaufort
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (2) at (6.11948782571497,0.261134711064057) {};%lignieres-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (3) at (6.97851279557777,0.522269797370023) {};%prusy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (6) at (7.86495455535142,0.261134711064057) {};%etourvy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (8) at (13.7189406480315,4.43147767619058) {};%fontaine-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (10) at (10.6381462604987,3.64963610042619) {};%magnant
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (12) at (7.13135989500809,10.6862102823028) {};%herbisse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (13) at (6.94076218168961,1.96085829677465) {};%granges-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (14) at (6.49372764397135,3.12736592781553) {};%cresantignes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (15) at (9.40702415551675,0.781841200523763) {};%bagneux-la-fosse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (17) at (10.7590898310817,7.55884397924662) {};%precy-saint-martin
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (21) at (12.2180363972595,3.38850101412009) {};%vitry-le-croise
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (22) at (7.28574132026611,7.81841538240036) {};%aubeterre
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (23) at (6.26708342085382,0.781841200523763) {};%bernon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (25) at (9.9428295568159,3.64963610042619) {};%poligny-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (26) at (13.4655293793709,5.73402574141327) {};%levigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (29) at (6.22081653131995,9.60101417514251) {};%bessy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (30) at (10.4282362102276,7.29770889294065) {};%pel-et-der
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (32) at (14.7608464343,4.43147767619058) {};%lignol-le-chateau
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (33) at (11.4614433809234,4.43147767619058) {};%puits-et-nuisement
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (34) at (10.1463343121309,3.12736592781553) {};%bourguignons
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (35) at (7.0155285965655,3.12736592781553) {};%maupas-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (37) at (5.46234660002188,9.6432336202337) {};%charny-le-bachot
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (38) at (8.98626081443976,2.0859529488974) {};%villiers-sous-praslin
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (40) at (5.72950563748998,7.81841538240036) {};%chauchigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (41) at (5.97989930383436,9.6432336202337) {};%rheges
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (42) at (10.5860836755999,7.55884397924662) {};%precy-notre-dame
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (44) at (2.24575770502964,4.69104907934291) {};%vulaines
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (45) at (13.0401031047502,4.17034258988449) {};%couvignon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (46) at (12.78657591877,2.60665943835724) {};%saint-usage-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (47) at (8.55314242336731,9.90436870653839) {};%lhuître
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (48) at (7.80905455591275,1.30411137313301) {};%lagesse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (50) at (8.79779760905299,2.34552435205114) {};%vougrey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (51) at (10.1166848058093,3.64963610042619) {};%fralignes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (55) at (12.3315136976206,7.29770889294065) {};%crespy-le-neuf
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (56) at (4.63224776539825,2.0859529488974) {};%coursan-en-othe
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (57) at (4.38523709656432,7.03657380663596) {};%echemines
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (58) at (12.7163781074818,3.72782025800222) {};%bligny-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (61) at (8.69737838958243,4.17034258988449) {};%fresnoy-le-chateau
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (62) at (7.87755804763301,9.6432336202337) {};%chene
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (63) at (9.43596841758132,3.38850101412009) {};%courtenot
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (65) at (13.9533947564796,6.25473223087157) {};%ville-sur-terre
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (67) at (9.84967931043892,8.3406855550096) {};%brillecourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (68) at (6.6561100383559,9.90436870653839) {};%champigny-sur-aube
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (69) at (2.43163660393187,8.07955046870504) {};%fosse-corduan
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (70) at (6.31111980371727,9.90436870653839) {};%viapres-le-petit
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (71) at (6.46645462298358,3.64963610042619) {};%villery
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (73) at (3.02572264527401,6.51586731717626) {};%saint-lupien
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (74) at (8.03083898705183,3.64963610042619) {};%montceaux-les-vaudes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (78) at (7.50937753236231,3.64963610042619) {};%vendue-mignot
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (79) at (10.7818695769335,4.17034258988449) {};%thieffrain
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (80) at (8.09305081974729,8.86139204446931) {};%mesnil-la-comtesse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (81) at (1.94981137179852,7.29770889294065) {};%fay-les-marcilly
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (82) at (6.97418712825909,3.90920750357993) {};%assenay
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (85) at (6.64314879104457,0.261134711064057) {};%coussegrey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (86) at (14.6847664352159,2.86779452466179) {};%juvancourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (88) at (11.5682161752821,2.60665943835724) {};%viviers-sur-artaut
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (89) at (0.899710844422977,7.55884397924662) {};%bouy-sur-orvin
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (90) at (12.1272942784282,7.81841538240036) {};%maizieres-les-brienne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (93) at (13.1504849478485,5.21331925195357) {};%montier-en-l-isle
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (96) at (4.43729948725165,5.99516082771783) {};%dierrey-saint-julien
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (98) at (10.5686094597252,1.82481786259284) {};%buxeuil-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (100) at (8.23706500794819,9.38209853392774) {};%saint-nabord-sur-aube
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (101) at (5.15472515146406,2.0859529488974) {};%montfey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (102) at (11.577623997189,8.3406855550096) {};%blignicourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (103) at (4.21965615958804,3.38850101412009) {};%nogent-en-othe
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (106) at (5.03297041540711,1.04297628682845) {};%croûtes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (109) at (4.81949365211441,1.82481786259284) {};%racines
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (110) at (4.78040582757352,2.60665943835724) {};%vosnon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (113) at (3.68012969844331,7.29770889294065) {};%saint-flavy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (114) at (10.0373644004314,8.07955046870504) {};%magnicourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (116) at (9.64724252763697,8.86139204446931) {};%dommartin-le-coq
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (117) at (0.471212686843537,9.38209853392774) {};%saint-nicolas-la-chapelle-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (118) at (9.61762646124532,9.38209853392774) {};%vaucogne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (123) at (1.34610063093149,9.122527130774) {};%marnay-sur-seine
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (125) at (8.82742589424777,8.07955046870504) {};%mesnil-lettre
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (126) at (12.1428277261249,7.55884397924662) {};%juzanvigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (127) at (12.310800608188,1.82481786259284) {};%verpillieres-sur-ource
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (131) at (6.3661366067209,8.86139204446931) {};%premierfait
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (133) at (7.22964551962432,8.86139204446931) {};%saint-etienne-sous-barbuise
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (136) at (13.3398235766406,4.95218416564888) {};%ailleville
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (137) at (2.56809024295191,5.21331925195357) {};%planty
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (139) at (8.06445599702451,9.38209853392774) {};%torcy-le-petit-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (140) at (12.9769689399693,5.21331925195357) {};%jaucourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (143) at (12.8022351120777,2.34552435205114) {};%fontette
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (144) at (13.4336293695571,6.25473223087157) {};%fuligny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (145) at (1.65468292347306,9.90436870653839) {};%plessis-barbuise
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (147) at (4.82519890077776,8.60025695816334) {};%mesgrigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (148) at (9.92814409427518,3.90920750357993) {};%marolles-les-bailly
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (150) at (4.00727321804259,4.17034258988449) {};%villemoiron-en-othe
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (152) at (8.4239399212239,9.122527130774) {};%vaupoisson
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (153) at (10.2350126587625,1.56368277628675) {};%balnot-sur-laignes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (154) at (10.5333314695601,5.47289065510718) {};%loge-aux-chevres
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (157) at (10.05231336806,7.81841538240036) {};%molins-sur-aube
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (159) at (11.577623997189,8.3406855550096) {};%courcelles-sur-voire
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (160) at (11.8856012473179,3.12736592781553) {};%eguilly-sous-bois
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (163) at (11.0159677797244,3.12736592781553) {};%buxieres-sur-arce
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (168) at (11.6085490508361,7.81841538240036) {};%perthes-les-brienne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (169) at (8.37484764216248,10.8910527751524) {};%trouans
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (173) at (9.49424423170299,2.34552435205114) {};%villemorien
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (175) at (9.69168250079908,8.07955046870504) {};%verricourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (176) at (10.9223388598835,8.61433010652711) {};%braux-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (177) at (10.5559391073505,8.07955046870504) {};%chalette-sur-voire
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (178) at (7.31372551248107,7.29770889294065) {};%feuges
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (179) at (9.50400742842617,8.3406855550096) {};%coclois
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (181) at (0.357337776255513,8.07955046870504) {};%fontenay-de-bossery
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (183) at (12.0630759885216,5.99516082771783) {};%juvanze
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (187) at (5.82468434260558,2.60665943835724) {};%montigny-les-monts
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (188) at (9.00021498659315,8.07955046870504) {};%avant-les-ramerupt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (190) at (1.80624737378308,7.34618307063819) {};%charmoy-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (194) at (8.53485328411858,0.781841200523763) {};%balnot-la-grange
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (195) at (6.08814906231865E-7,8.3406855550096) {};%courceroy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (197) at (11.1213262039493,1.30411137313301) {};%courteron
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (198) at (13.5293755168449,4.69104907934291) {};%proverville
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (199) at (11.2503643192177,2.0859529488974) {};%polisy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (200) at (11.5585133076809,5.73402574141327) {};%amance-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (201) at (14.3121060240351,6.47677523838824) {};%thil-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (202) at (6.73099561116658,11.7276232612208) {};%semoine
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (203) at (8.88552070708267,7.03657380663596) {};%bouy-luxembourg
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (204) at (10.9981879145426,9.38209853392774) {};%saint-leger-sous-margerie
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (205) at (8.35179591525027,10.4250751959967) {};%grandville-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (206) at (7.17762139341213,0.387793046337752) {};%chaserey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (207) at (12.8349621806374,4.69104907934291) {};%fravaux
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (209) at (10.2607467800958,4.17034258988449) {};%villy-en-trodes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (211) at (9.86457530808588,8.07955046870504) {};%pougy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (215) at (8.62375348631855,11.7276232612208) {};%poivres
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (216) at (3.38479723802898,6.25473223087157) {};%faux-villecerf
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (217) at (14.6791418000552,5.73402574141327) {};%thors-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (218) at (10.8408439353853,9.122527130774) {};%balignicourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (219) at (7.59302261675635,2.0859529488974) {};%metz-robert
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (220) at (13.0715982849523,3.64963610042619) {};%urville-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (223) at (14.74457281601,4.69104907934291) {};%rouvres-les-vignes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (224) at (10.7288319146373,8.07955046870504) {};%betignicourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (226) at (12.2845560353946,8.07955046870504) {};%hampigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (227) at (10.7894229416245,7.03657380663596) {};%blaincourt-sur-aube
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (228) at (4.62612546235547,9.122527130774) {};%saint-oulph
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (229) at (8.95645611987027,8.86139204446931) {};%chaudrey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (230) at (8.59660551613292,9.122527130774) {};%ortillon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (232) at (5.11528861987763,2.86779452466179) {};%eaux-puiseaux
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (234) at (9.34906520286354,1.82481786259284) {};%arrelles
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (235) at (11.1507414291205,6.77700240348222) {};%mathaux
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (236) at (0.184444968968707,8.07955046870504) {};%gumery
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (238) at (10.9473213265188,7.29770889294065) {};%epagne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (239) at (6.94181002116534,3.37130049945315) {};%longeville-sur-mogne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (240) at (11.7625650623882,5.21331925195357) {};%vauchonvilliers
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (241) at (2.25874379664507,8.07955046870504) {};%saint-loup-de-buffigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (242) at (8.47802189332133,1.82481786259284) {};%praslin
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (243) at (12.1116632281078,8.07955046870504) {};%vallentigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (244) at (2.18447830569619,9.6432336202337) {};%perigny-la-rose
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (245) at (6.84156015897069,3.12736592781553) {};%machy-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (246) at (14.5383007445218,5.21331925195357) {};%colombe-la-fosse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (247) at (8.38861552068103,0.261134711064057) {};%villiers-le-bois
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (249) at (13.766914988635,3.64963610042619) {};%arconville
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (251) at (5.15738990910494,8.86139204446931) {};%droupt-sainte-marie
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (252) at (11.7504599381954,8.3406855550096) {};%rances
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (253) at (11.0309791013134,2.86779452466179) {};%ville-sur-arce
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (254) at (14.2237888530525,4.69104907934291) {};%voigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (255) at (12.0804826730448,8.60025695816334) {};%villeret-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (256) at (9.89858470152066,4.43147767619058) {};%briel-sur-barse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (257) at (10.9169579134105,7.81841538240036) {};%saint-christophe-dodinicourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (258) at (2.76654166798717,4.69104907934291) {};%saint-benoist-sur-vanne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (260) at (13.2296990034917,3.90920750357993) {};%bergeres
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (261) at (10.4955127455672,9.122527130774) {};%donnement
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (262) at (8.46989539298857,1.54804594477216) {};%pargues
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (264) at (6.93744816304048,1.30411137313301) {};%turgy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (266) at (12.3627673266255,6.77700240348222) {};%chaumesnil
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (270) at (8.22167394884638,6.51586731717626) {};%assencieres
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (271) at (11.6658210346836,3.90920750357993) {};%longpre-le-sec
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (272) at (14.8688860416271,5.47289065510718) {};%saulcy-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (273) at (5.86478743531635,1.82481786259284) {};%davrey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (279) at (12.834748565115,7.55884397924662) {};%epothemont
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (280) at (2.48133486202253,7.03657380663596) {};%avon-la-peze
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (282) at (7.13400999906925,4.17034258988449) {};%villemereuil
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (283) at (10.4046717390998,4.69104907934291) {};%champ-sur-barse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (284) at (6.82781228858461,3.38850101412009) {};%lirey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (285) at (7.11736489734529,10.9457816854564) {};%villiers-herbisse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (287) at (3.87879381402253,6.77700240348222) {};%prunay-belleville
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (288) at (12.2644366612539,2.60665943835724) {};%noe-les-mallets
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (289) at (11.7779816635851,4.95218416564888) {};%magny-fouchard
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (290) at (11.5377687323187,3.12736592781553) {};%chervey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (291) at (7.1595076792905,10.1639401096921) {};%allibaudieres
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (292) at (7.57914659662831,2.34552435205114) {};%loges-margueron
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (294) at (8.15778079062246,1.30411137313301) {};%maisons-les-chaource
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (295) at (12.0320728778081,6.51586731717626) {};%rothiere
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (296) at (13.9832450509127,5.96075979838394) {};%fresnay
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (301) at (12.6927226483782,4.17034258988449) {};%meurville
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (302) at (8.33732133148642,10.6862102823028) {};%dosnon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (303) at (7.33552228336891,3.64963610042619) {};%villy-le-bois
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (304) at (5.9116967172145,10.9457816854564) {};%salon-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (307) at (11.2014342355265,8.86139204446931) {};%pars-les-chavanges
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (309) at (5.01987225994095,1.30411137313301) {};%courtaoult
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (313) at (5.98821051878652,10.6909013317568) {};%champfleury-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (315) at (12.4409713190707,5.47289065510718) {};%bossancourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (317) at (12.3945235536426,9.122527130774) {};%joncreuil
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (318) at (11.1416845117335,7.96696528179512) {};%lassicourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (319) at (4.7934645677986,2.34552435205114) {};%villeneuve-au-chemin
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (320) at (5.54308484544649,8.07955046870504) {};%rilly-sainte-syre
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (321) at (9.01482291287595,7.81841538240036) {};%longsols
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (324) at (12.1905317495837,9.6432336202337) {};%arrembecourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (326) at (7.0290090208771,9.38209853392774) {};%villette-sur-aube
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (328) at (1.96295111264053,9.64792466968782) {};%villeneuve-au-chatelot
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (330) at (0.231193056763349,7.03657380663596) {};%louptiere-thenard
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (331) at (11.8743332087895,6.25473223087157) {};%unienville
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (332) at (14.017856809671,5.21331925195357) {};%engente
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (333) at (1.85281173419576,6.65972616711677) {};%bourdenay
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (336) at (1.84982198410515,5.73402574141327) {};%pouy-sur-vannes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (339) at (8.40957047417438,9.38209853392774) {};%vinets
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (344) at (8.63797738888826,2.0859529488974) {};%lantages
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (348) at (6.73583074485855,1.82481786259284) {};%loge-pomblin
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (349) at (2.80384587810398,3.90920750357993) {};%berulle
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (351) at (1.82550107726133,6.25473223087157) {};%bercenay-le-hayer
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (352) at (11.2320557960047,8.3406855550096) {};%rosnay-l-hopital
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (354) at (9.04394002210247,7.29770889294065) {};%onjon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (356) at (1.28166966577326,6.77700240348222) {};%trancault
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (359) at (9.10124662314613,-3.75240630247962E-7) {};%channes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (360) at (12.2052019752431,6.51586731717626) {};%petit-mesnil
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (362) at (4.42432801187399,6.25473223087157) {};%dierrey-saint-pierre
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (363) at (12.4260414744268,8.60025695816334) {};%lentilles
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (364) at (12.4721683325412,4.95218416564888) {};%argancon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (367) at (5.11734596766052,9.6432336202337) {};%longueville-sur-aube
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (370) at (11.9823962740577,4.43147767619058) {};%montmartin-le-haut
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (372) at (14.5546242166152,4.95218416564888) {};%colombe-le-sec
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (373) at (13.0553683944806,6.77700240348222) {};%chaise-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (375) at (12.6300410129977,5.21331925195357) {};%dolancourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (379) at (4.7445711200828,6.77700240348222) {};%villeloup
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (380) at (13.3560943913899,1.82481786259284) {};%cunfin
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (381) at (12.7720217074154,5.73402574141327) {};%eclance
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (382) at (14.3486111685811,5.47289065510718) {};%maisons-les-soulaines
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (383) at (11.9008936685537,2.86779452466179) {};%chacenay
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (384) at (6.95116733991321,1.04297628682845) {};%vallieres-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (385) at (6.42109677491563,7.81841538240036) {};%chapelle-vallon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (387) at (5.0906595724249,10.1639401096921) {};%boulages
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (388) at (12.1251270594602,4.95218416564888) {};%maison-des-champs
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (390) at (9.47452002250011,8.86139204446931) {};%morembert
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (391) at (7.04292589787544,9.122527130774) {};%nozay-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (392) at (2.62946105042968,7.55884397924662) {};%rigny-la-nonneuse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (393) at (2.87749574657141,5.99516082771783) {};%villadin
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (394) at (13.2761873511067,5.99516082771783) {};%vernonvilliers
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (395) at (6.29259937399017,3.64963610042619) {};%javernant
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (398) at (0.911641139216243,7.29770889294065) {};%soligny-les-etangs
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (401) at (6.38743432691731,1.82481786259284) {};%avreuil
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (402) at (12.2519169586864,5.73402574141327) {};%trannes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (403) at (11.1445283784142,3.90920750357993) {};%beurey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (404) at (7.18755678291028,9.6432336202337) {};%ormes-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (406) at (6.49372764397135,3.12736592781553) {};%fays-la-chapelle
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (407) at (11.4004215729785,5.47289065510718) {};%ville-aux-bois-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (408) at (11.7117371699135,3.12736592781553) {};%bertignolles
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (409) at (12.7397511648194,9.122527130774) {};%bailly-le-franc
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (410) at (9.99258392512996,8.86139204446931) {};%jasseines
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (412) at (14.017856809671,5.21331925195357) {};%arrentieres
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (413) at (9.23098891568499,0.548852410945213) {};%bragelogne-beauvoir
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (415) at (7.46043291815405,1.30411137313301) {};%cussangy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (416) at (9.53788933402589,1.56368277628675) {};%avirey-lingey
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (417) at (7.14788184132804,3.90920750357993) {};%villy-le-marechal
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (419) at (6.79846753395742,4.16721522358131) {};%roncenay
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (422) at (8.75027325521229,9.25700388180639) {};%isle-aubigny
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (423) at (12.6614369641799,4.69104907934291) {};%spoy-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (424) at (10.1952475116233,8.3406855550096) {};%aulnay-10
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (425) at (11.0440135627209,8.60025695816334) {};%yevres-le-petit
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (429) at (9.73962398325803,4.17034258988449) {};%chauffour-les-bailly
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (431) at (7.24369592280753,8.60025695816334) {};%saint-remy-sous-barbuise
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (433) at (4.58658253602504,9.90436870653839) {};%etrelles-sur-aube
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (4) at (7.73025315765992,5.99516082771783) {};%villechetif
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (5) at (4.68905577017782,4.43147767619058) {};%chennegy
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (7) at (12.5203092419086,7.03657380663596) {};%morvilliers-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (9) at (6.58555462514723,4.69104907934291) {};%saint-pouange
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (11) at (3.07602360424262,5.47289065510718) {};%palis
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (18) at (4.30293805538387,5.21331925195357) {};%estissac
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (19) at (5.05102831248976,7.55884397924662) {};%fontaine-les-gres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (20) at (6.81406082867954,3.64963610042619) {};%saint-jean-de-bonneval
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (24) at (9.77532030197252,9.6432336202337) {};%dampierre-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (27) at (7.34169526833221,6.77700240348222) {};%vailly-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (28) at (6.12966937082722,6.77700240348222) {};%saint-lye
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (31) at (7.10633858810477,4.69104907934291) {};%saint-leger-pres-troyes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (36) at (4.46660350133824,8.86139204446931) {};%chatres-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (39) at (7.71934151987449,9.38209853392774) {};%torcy-le-grand-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (43) at (11.6701662587703,6.77700240348222) {};%brienne-la-vieille
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (49) at (7.44449086583591,8.07955046870504) {};%montsuzain
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (52) at (2.20922144819412,9.122527130774) {};%crancey
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (53) at (11.2933434650385,7.29770889294065) {};%saint-leger-sous-brienne
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (59) at (14.4297291547979,4.17034258988449) {};%bayel
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (64) at (3.2873256309447,4.69104907934291) {};%paisy-cosdon
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (66) at (10.7578290114971,1.56368277628675) {};%neuville-sur-seine
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (72) at (1.66692560188372,9.6432336202337) {};%barbuise
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (75) at (8.91450209566474,6.51586731717626) {};%rouilly-sacey
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (77) at (9.86834625017803,7.40716671354727) {};%val-d-auzon
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (83) at (3.75694207674477,5.73402574141327) {};%mesnil-saint-loup
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (84) at (7.49547978452846,3.90920750357993) {};%bordes-aumont
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (87) at (2.78988018177127,7.81841538240036) {};%saint-martin-de-bossenay
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (91) at (0.863972952190035,8.3406855550096) {};%fontaine-macon
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (92) at (7.54292033340929,6.25473223087157) {};%creney-pres-troyes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (94) at (5.83736107166116,5.73402574141327) {};%montgueux
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (95) at (7.26602862235605,4.95218416564888) {};%breviandes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (97) at (9.62453335953664,3.12736592781553) {};%virey-sous-bar
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (99) at (11.6899383285488,0.522269797370023) {};%mussy-sur-seine
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (104) at (10.9320314202284,1.56368277628675) {};%gye-sur-seine
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (105) at (5.47662631354543,2.60665943835724) {};%auxon-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (107) at (1.38237709438079,8.3406855550096) {};%saint-aubin-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (108) at (4.81194489883136,8.86139204446931) {};%mery-sur-seine
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (111) at (11.5986477447693,2.0859529488974) {};%loches-sur-ource
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (112) at (9.30190113014384,8.86139204446931) {};%nogent-sur-aube
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (115) at (10.190690854353,2.34552435205114) {};%polisot
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (119) at (3.93561924876057,5.03975042213456) {};%neuville-sur-vanne
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (120) at (6.66759172137575,3.12736592781553) {};%jeugny
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (121) at (10.2850680080261,6.77700240348222) {};%brevonnes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (122) at (5.76998767723198,7.03657380663596) {};%payns
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (124) at (6.28924318220712,7.03657380663596) {};%mergey
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (128) at (6.66288855777459,6.51586731717626) {};%sainte-maure
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (129) at (2.04226287550986,8.08893256761457) {};%ferreux-quincey
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (130) at (11.6393656035581,7.29770889294065) {};%brienne-le-chateau
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (132) at (13.7478655773698,6.77700240348222) {};%soulaines-dhuys
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (134) at (5.17030991720619,5.21331925195357) {};%messon
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (135) at (8.56661781666418,3.38850101412009) {};%rumilly-les-vaudes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (138) at (1.86399383701731,9.122527130774) {};%pont-sur-seine
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (141) at (15.0000000506925,3.38850101412009) {};%longchamp-sur-aujon
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (142) at (6.57184195339998,4.95218416564888) {};%saint-germain-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (146) at (8.43788481530644,5.73402574141327) {};%laubressel
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (149) at (1.36956644011941,10.2874710786625) {};%villenauxe-la-grande
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (155) at (8.40926528033173,6.25473223087157) {};%mesnil-sellieres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (156) at (5.98530758104171,2.86779452466179) {};%chamoy
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (158) at (5.03632296874113,4.43147767619058) {};%bercenay-en-othe
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (161) at (6.50338955956414,6.25473223087157) {};%barberey-saint-sulpice
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (162) at (6.57529818961929,1.56368277628675) {};%vanlay
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (164) at (8.30725656439308,4.95218416564888) {};%montaulin
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (165) at (3.84166323795328,9.04434297319797) {};%maizieres-la-grande-paroisse
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (166) at (13.7887437036546,4.04993898721727) {};%baroville
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (167) at (7.81860788551315,7.55884397924662) {};%charmont-sous-barbuise
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (170) at (12.2519169586864,5.73402574141327) {};%jessains
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (171) at (8.1053126920291,5.47289065510718) {};%thennelieres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (172) at (5.9449931682942,3.64963610042619) {};%sommeval
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (174) at (3.33400374290029,7.29770889294065) {};%marigny-le-chatel
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (180) at (1.59163168341298,7.55884397924662) {};%avant-les-marcilly
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (182) at (11.0990850753074,4.69104907934291) {};%vendeuvre-sur-barse
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (184) at (0.964909406946203,9.90436870653839) {};%montpothier
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (185) at (10.2310423658498,4.69104907934291) {};%villeneuve-au-chene
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (186) at (11.318174662673,2.16882815592896) {};%landreville
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (189) at (9.59246694017093,6.77700240348222) {};%piney
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (192) at (10.3498564317941,2.60665943835724) {};%merrey-sur-arce
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (193) at (8.12191153395785,11.468051858067) {};%mailly-le-camp
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (208) at (6.68389454372723,9.38209853392774) {};%pouan-les-vallees
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (210) at (7.77252959146061,5.21331925195357) {};%rouilly-saint-loup
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (212) at (6.53076472266669,5.73402574141327) {};%noes-pres-troyes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (213) at (4.20675355523255,3.64963610042619) {};%saint-mards-en-othe
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (214) at (7.45359733460484,4.69104907934291) {};%bucheres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (221) at (5.52966548414974,1.56368277628675) {};%ervy-le-chatel
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (222) at (2.57958492635021,8.60025695816334) {};%gelannes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (225) at (5.34343345593967,8.60025695816334) {};%droupt-saint-basle
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (231) at (9.08824904246343,3.38850101412009) {};%foucheres-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (233) at (11.8766303475569,9.122527130774) {};%chavanges
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (237) at (6.90515772963815,5.21331925195357) {};%rosieres-pres-troyes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (248) at (6.26550674585943,4.17034258988449) {};%souligny
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (250) at (11.3259466031603,0.781841200523763) {};%plaines-saint-lange
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (259) at (8.19046715386678,3.90920750357993) {};%vaudes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (263) at (7.39767531784824,5.73402574141327) {};%saint-parres-aux-tertres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (265) at (5.59582686038536,0.261134711064057) {};%marolles-sous-lignieres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (267) at (7.76711208179355,2.0859529488974) {};%chaource
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (268) at (11.6856068448859,6.51586731717626) {};%dienville
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (269) at (5.70418670930053,4.95218416564888) {};%prugny
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (274) at (12.9769689399693,5.21331925195357) {};%arsonval
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (275) at (7.67653666287375,0.522269797370023) {};%chesley
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (277) at (8.07684154883906,5.99516082771783) {};%bouranton
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (278) at (9.69552577951104,4.95218416564888) {};%mesnil-saint-pere
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (281) at (3.62882960415003,8.3406855550096) {};%origny-le-sec
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (286) at (4.72821500992192,3.64963610042619) {};%maraye-en-othe
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (293) at (5.92942932435591,7.29770889294065) {};%villacerf
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (297) at (3.47346428933837,4.43147767619058) {};%aix-en-othe
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (298) at (2.33289449845565,6.51586731717626) {};%marcilly-le-hayer
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (299) at (9.37763180838626,4.43147767619058) {};%montreuil-sur-barse
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (300) at (8.71175981013616,3.90920750357993) {};%villemoyenne
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (305) at (7.37412349802712,9.38209853392774) {};%arcis-sur-aube
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (306) at (3.27049523529203,8.60025695816334) {};%pars-les-romilly
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (308) at (8.19314541674892,7.03657380663596) {};%luyeres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (310) at (9.11449872221875,9.122527130774) {};%ramerupt
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (311) at (7.68312848906488,3.64963610042619) {};%cormost
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (312) at (8.11945751843225,5.21331925195357) {};%ruvigny
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (314) at (7.29382023584924,4.43147767619058) {};%moussey-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (316) at (6.0647706621897,4.69104907934291) {};%laines-aux-bois
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (322) at (5.09081971152752,6.77700240348222) {};%pavillon-sainte-julie
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (323) at (5.37019203815954,8.07955046870504) {};%saint-mesmin-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (325) at (6.54448807289107,5.47289065510718) {};%riviere-de-corps
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (327) at (4.33304262432143,8.07955046870504) {};%orvilliers-saint-julien
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (329) at (7.25765859948531,8.3406855550096) {};%voue
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (334) at (5.86426985993635,5.21331925195357) {};%torvilliers
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (335) at (5.56994299599818,7.55884397924662) {};%savieres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (337) at (4.82338199023469,5.21331925195357) {};%bucey-en-othe
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (338) at (8.55230044174119,3.64963610042619) {};%saint-parres-les-vaudes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (340) at (6.26550674585943,4.17034258988449) {};%bouilly-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (341) at (2.55455263801216,9.122527130774) {};%saint-hilaire-sous-romilly
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (342) at (5.38369435788303,4.43147767619058) {};%vauchassis
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (343) at (5.31725632293199,5.73402574141327) {};%macey-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (345) at (5.01120608971592,8.3406855550096) {};%vallant-saint-georges
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (346) at (0.816327163993409,9.38209853392774) {};%saulsotte
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (347) at (10.279299691606,0.781841200523763) {};%riceys
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (350) at (6.2208503151038,8.3406855550096) {};%grandes-chapelles
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (353) at (3.44815812728892,4.95218416564888) {};%villemaur-sur-vanne
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (355) at (4.81030786605416,5.47289065510718) {};%fontvannes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (357) at (8.34999793321034,4.17034258988449) {};%clerey
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (358) at (0.380796160914698,7.55884397924662) {};%traînel
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (361) at (8.77012231811336,5.99516082771783) {};%dosches
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (365) at (13.4510041051006,3.12736592781553) {};%champignol-lez-mondeville
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (366) at (7.64108743441254,4.43147767619058) {};%isle-aumont
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (368) at (7.78096768754568,4.68323066358549) {};%verrieres-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (371) at (11.9469311703208,2.0859529488974) {};%essoyes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (374) at (9.00144323334916,4.95218416564888) {};%lusigny-sur-barse
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (376) at (14.5107417641983,2.86779452466179) {};%ville-sous-la-ferte
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (377) at (8.63990145328307,5.21331925195357) {};%courteranges
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (378) at (10.5388619347928,2.34552435205114) {};%celles-sur-ource
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (386) at (7.65513279590698,4.17034258988449) {};%saint-thibault-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (389) at (0.322092280299339,8.86139204446931) {};%meriot
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (396) at (11.497093905531,6.77700240348222) {};%radonvilliers
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (397) at (3.48157506824256,7.81841538240036) {};%ossey-les-trois-maisons
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (399) at (10.1610645340731,2.86779452466179) {};%bar-sur-seine
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (400) at (10.3982126858184,7.81841538240036) {};%lesmont
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (405) at (8.89990664743716,3.64963610042619) {};%chappes-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (411) at (6.4759179622718,6.77700240348222) {};%saint-benoît-sur-seine
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (414) at (5.54285701505451,1.30411137313301) {};%chessy-les-pres
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (418) at (7.03697238838547,5.99516082771783) {};%lavau-10
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (420) at (9.47809431276449,5.73402574141327) {};%geraudot
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (421) at (5.63594728549629,9.95597025053923) {};%plancy-l-abbaye
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (426) at (2.44390482752941,4.17034258988449) {};%rigny-le-ferron
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (427) at (0.172732868992907,8.3406855550096) {};%motte-tilly
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (428) at (9.47965914521785,2.60665943835724) {};%jully-sur-sarce
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (430) at (6.33325252915301,2.86779452466179) {};%saint-phal
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (432) at (9.42629783288729,4.6488296342516) {};%montieramey
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (16) at (7.25208565660978,5.21331925195357) {};%saint-julien-les-villas
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (54) at (6.67667933956418,6.25473223087157) {};%chapelle-saint-luc
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (60) at (6.70416764589295,5.73402574141327) {};%sainte-savine
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (76) at (0.852101860173346,8.60025695816334) {};%nogent-sur-seine
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (151) at (7.21031857743313,5.99516082771783) {};%pont-sainte-marie
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (191) at (3.07244584409799,9.122527130774) {};%romilly-sur-seine
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (196) at (6.71794771556459,5.47289065510718) {};%saint-andre-les-vergers
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (276) at (13.703004890095,4.69104907934291) {};%bar-sur-aube
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (369) at (7.05086947139572,5.73402574141327) {};%troyes

@@ -1,0 +1,698 @@
+277
+413
+
+
+
+1 157 1
+1 174 1
+2 12 7
+2 187 6
+3 51 2
+3 209 2
+4 19 1
+4 51 2
+4 104 3
+4 195 9
+5 7 16
+5 18 6
+5 103 2
+5 213 10
+6 73 1350
+6 190 30
+6 252 101
+7 83 180
+8 195 17
+8 209 5
+8 235 11
+9 10 13
+9 43 4
+9 78 101
+9 192 28
+10 192 4
+10 197 1
+10 226 1
+11 234 1
+11 253 1
+12 161 2
+12 179 3
+12 187 2
+13 63 1
+13 95 1
+14 45 1
+14 221 1
+15 34 3
+15 63 2
+15 153 4
+15 248 5
+16 17 1
+16 183 1
+16 256 1
+17 207 1
+18 169 3
+18 183 8
+18 256 2
+19 180 1
+20 117 1
+20 162 1
+21 98 1
+21 202 1
+22 59 6
+22 143 27
+23 152 1
+23 266 1
+24 72 1
+24 254 1
+25 125 1
+25 273 1
+26 86 1
+26 131 1
+26 147 1
+27 51 1
+27 91 1
+27 180 1
+27 205 2
+28 54 1
+28 230 1
+28 241 1
+29 100 1
+29 238 1
+30 143 17
+30 146 5
+30 148 8
+30 174 2
+31 33 2
+31 110 4
+31 160 4
+32 99 6
+32 163 7
+33 167 1
+34 63 1
+35 157 1
+35 177 1
+35 197 1
+36 158 1
+36 234 1
+37 56 2
+37 120 1
+37 140 4
+37 157 1
+38 102 5
+38 148 7
+39 40 1
+39 197 1
+39 226 1
+40 172 1
+41 61 3
+41 119 1
+41 160 3
+41 205 5
+41 216 3
+42 186 1
+42 223 1
+43 224 1
+43 226 1
+44 58 1
+44 272 1
+45 124 1
+45 128 1
+45 229 2
+46 102 8
+46 274 9
+47 61 1
+47 230 1
+48 96 3
+48 244 13
+48 265 9
+49 69 1
+49 194 1
+50 123 1
+50 240 1
+51 209 1
+51 277 1
+52 182 1
+52 249 1
+53 173 1
+53 201 1
+53 232 1
+54 230 1
+54 241 1
+55 58 1
+55 163 1
+55 268 1
+55 272 1
+56 140 7
+56 177 1
+57 68 1
+57 142 1
+58 275 1
+59 150 21
+60 155 1
+60 212 1
+61 205 1
+62 127 1
+62 139 1
+64 67 1
+64 95 1
+64 154 1
+64 189 1
+65 228 1
+65 242 1
+66 137 1
+66 248 1
+67 154 1
+68 208 1
+69 174 1
+69 192 2
+70 109 1
+70 160 1
+71 150 93
+71 195 40
+71 235 26
+72 97 5
+72 110 1
+72 132 1
+73 83 3004
+74 107 1
+74 242 1
+74 262 1
+74 266 1
+75 88 1
+75 190 2
+75 229 2
+76 206 1
+76 208 1
+76 241 1
+77 101 1
+77 130 1
+77 133 1
+77 156 1
+77 163 1
+77 178 1
+77 204 1
+78 150 132
+79 133 1
+79 134 1
+80 93 1
+80 114 1
+80 200 1
+81 132 1
+81 236 1
+82 103 1
+82 256 1
+84 111 1
+84 269 1
+85 183 8
+85 207 4
+86 115 1
+86 131 1
+86 186 1
+86 223 1
+87 154 1
+87 183 2
+87 250 1
+88 232 1
+89 112 1
+89 168 2
+89 201 1
+89 270 1
+90 111 1
+90 129 1
+91 273 1
+92 190 4
+92 274 5
+93 114 1
+93 200 1
+94 97 11
+94 110 2
+94 259 1
+96 170 1
+98 140 2
+98 276 1
+99 108 1
+99 163 2
+100 238 1
+101 149 1
+102 146 6
+102 148 10
+103 255 1
+104 235 5
+105 222 1
+105 245 1
+106 220 1
+106 221 1
+107 185 1
+107 262 1
+107 266 1
+108 178 1
+109 155 1
+109 199 1
+109 219 1
+109 254 1
+110 167 1
+111 129 1
+111 269 1
+112 267 1
+113 188 1
+113 241 1
+113 258 1
+114 126 1
+114 201 1
+115 145 1
+116 236 1
+116 261 1
+117 145 1
+117 162 1
+118 144 1
+118 267 1
+119 273 1
+120 218 1
+121 143 19
+121 179 5
+121 194 5
+122 188 1
+122 241 1
+123 198 1
+123 240 1
+124 128 1
+124 274 3
+125 193 1
+125 198 1
+126 173 1
+126 184 1
+126 191 1
+126 237 1
+127 203 1
+127 246 1
+128 168 2
+128 229 2
+130 163 2
+130 205 2
+130 272 1
+131 147 1
+132 139 2
+132 160 2
+132 212 1
+132 219 1
+133 209 1
+134 209 1
+135 157 4
+135 175 3
+135 274 9
+136 159 1
+136 202 1
+136 221 1
+137 171 1
+137 181 1
+138 153 1
+138 244 3
+138 265 2
+139 160 2
+139 164 1
+140 157 5
+140 231 2
+140 263 1
+140 276 3
+141 142 1
+141 205 1
+142 214 1
+143 194 18
+144 221 1
+145 162 1
+146 148 9
+147 215 1
+147 243 1
+149 204 1
+151 178 1
+151 196 1
+152 161 1
+152 196 1
+152 257 1
+153 165 1
+153 244 3
+154 250 1
+155 219 1
+156 178 1
+156 204 1
+158 171 1
+158 234 1
+158 253 1
+159 221 1
+159 267 1
+160 260 1
+161 187 1
+161 196 1
+162 246 1
+163 268 1
+164 203 1
+165 189 1
+166 176 9
+166 213 5
+166 255 1
+167 259 1
+168 201 2
+168 229 2
+169 173 1
+169 183 3
+170 261 1
+170 269 1
+172 224 1
+175 218 1
+175 274 3
+176 213 33
+176 247 7
+176 252 65
+179 194 4
+180 277 1
+181 244 3
+181 248 2
+181 265 2
+182 203 1
+182 249 1
+183 207 4
+184 264 1
+185 228 1
+185 242 1
+185 262 1
+187 210 1
+187 257 1
+188 258 1
+191 264 1
+193 198 1
+193 240 1
+195 235 15
+198 240 1
+199 219 1
+199 254 1
+200 217 1
+200 270 1
+201 217 1
+201 229 2
+202 220 1
+203 249 1
+206 208 1
+206 271 1
+210 257 1
+211 223 1
+211 233 1
+212 236 1
+214 216 1
+214 258 1
+215 223 1
+215 233 1
+216 258 1
+222 245 1
+225 239 1
+225 251 1
+227 238 1
+227 264 1
+231 276 1
+233 273 1
+234 253 1
+237 251 1
+238 264 1
+239 251 1
+243 260 1
+244 265 3
+245 263 1
+247 255 1
+271 275 1
+
+
+
+1091 0 72 chancay
+5213 0 169 blere
+2094 0 127 truyes
+2444 0 47 saint-branchs
+3118 0 189 savonnieres
+16072 0 1190 saint-cyr-sur-loire
+8106 0 309 ballan-mire
+4523 0 126 esvres
+12846 0 316 amboise
+1628 0 153 poce-sur-cisse
+487 0 27 roche-clermault
+2224 0 147 croix-en-touraine
+1198 0 56 restigne
+1167 0 29 beaumont-la-ronce
+3898 0 118 bourgueil
+534 0 101 chapelle-aux-naux
+1130 0 113 lignieres-de-touraine
+3369 0 167 cinq-mars-la-pile
+601 0 33 louans
+465 0 35 rilly-sur-vienne
+623 0 18 monthodon
+4123 0 297 veretz
+446 0 9 cere-la-ronde
+981 0 78 villaines-les-rochers
+667 0 23 chapelle-blanche-saint-martin
+561 0 51 marcilly-sur-vienne
+1371 0 34 manthelan
+1072 0 89 preuilly-sur-claise
+216 0 18 braye-sur-maulne
+2678 0 103 vernou-sur-brenne
+4096 0 101 sainte-maure-de-touraine
+6507 0 240 loches
+652 0 42 sainte-catherine-de-fierbois
+1177 0 32 saint-nicolas-de-bourgueil
+768 0 30 montreuil-en-touraine
+272 0 39 thizay-37
+1339 0 37 villedomer
+2304 0 163 parcay-meslay
+1173 0 81 limeray
+1083 0 47 cangey
+3815 0 100 descartes
+532 0 30 antogny-le-tillac
+482 0 74 saint-regle
+512 0 12 verneuil-sur-indre
+1223 0 67 rouziers-de-touraine
+3998 0 517 notre-dame-d-oe
+477 0 32 tournon-saint-pierre
+7894 0 202 chinon
+572 0 55 dierre
+500 0 20 saint-senoch
+1242 0 33 tauxigny
+253 0 17 jaulnay
+1774 0 36 ambillou
+248 0 9 boussay-37
+223 0 9 sennevieres
+2064 0 60 auzouer-en-touraine
+273 0 13 ferriere-larcon
+598 0 18 saint-hippolyte-37
+2391 0 213 larcay
+314 0 32 theneuil
+1445 0 26 yzeures-sur-creuse
+572 0 26 chaveignes
+937 0 46 benais
+677 0 39 saint-patrice
+505 0 6 loche-sur-indrois
+221 0 38 candes-saint-martin
+1010 0 53 rivarennes-37
+582 0 12 betz-le-chateau
+717 0 76 lussault-sur-loire
+335 0 35 trogues
+10733 0 553 chambray-les-tours
+1277 0 45 sache
+134817 0 3888 tours
+258 0 13 beaumont-village
+1243 0 261 saint-roch
+322 0 10 petit-pressigny
+1281 0 45 chambourg-sur-indre
+15227 0 1349 saint-pierre-des-corps
+336 0 15 cigogne
+531 0 27 couesmes
+568 0 16 panzoult
+895 0 39 druye
+35976 0 1110 joue-les-tours
+463 0 21 marcay-37
+3435 0 125 azay-le-rideau
+358 0 32 ports
+629 0 35 saint-michel-sur-loire
+1094 0 77 charentilly
+1676 0 35 saint-paterne-racan
+865 0 53 champigny-sur-veude
+340 0 17 bossee
+2104 0 203 mettray
+797 0 26 villiers-au-bouin
+2480 0 118 artannes-sur-indre
+501 0 52 ingrandes-de-touraine
+702 0 191 riviere-37
+6962 0 255 monts-37
+694 0 34 boulay
+1582 0 25 genille
+225 0 15 marcilly-sur-maulne
+148 0 10 chanceaux-pres-loches
+3311 0 197 rochecorbon
+1071 0 60 villandry
+2203 0 50 sorigny
+394 0 19 autreche
+410 0 17 marray
+338 0 344 montresor
+345 0 30 liege
+118 0 15 crissay-sur-manse
+1602 0 47 thilouze
+173 0 11 assay
+1087 0 59 saint-christophe-sur-le-nais
+501 0 16 barrou
+1650 0 75 chateau-la-valliere
+605 0 19 marigny-marmande
+723 0 18 cravant-les-coteaux
+151 0 17 verneuil-le-chateau
+323 0 17 bueil-en-touraine
+221 0 16 civray-sur-esves
+640 0 40 crotelles
+2993 0 130 azay-sur-cher
+301 0 16 chambon-37
+238 0 21 varennes-37
+1231 0 100 cerelles
+224 0 10 vou
+1367 0 77 savigne-sur-lathan
+264 0 16 courcoue
+1483 0 61 saint-antoine-du-rocher
+442 0 22 lemere
+1538 0 53 perrusson
+881 0 91 nouatre
+1721 0 494 île-bouchard
+1231 0 54 reignac-sur-indre
+834 0 33 courcay
+4011 0 101 monnaie
+679 0 20 chemille-sur-deme
+376 0 28 saint-germain-sur-vienne
+1528 0 79 chapelle-sur-loire
+1941 0 381 richelieu
+5181 0 1476 chateau-renault
+586 0 22 cussay
+243 0 9 paulmy
+10487 0 427 montlouis-sur-loire
+1156 0 24 neuvy-le-roi
+264 0 13 luze-37
+3069 0 133 vouvray
+604 0 38 maille-37
+4966 0 620 ville-aux-dames
+685 0 25 dolus-le-sec
+13947 0 1052 saint-avertin
+178 0 12 sublaines
+436 0 30 epeigne-les-bois
+1536 0 64 huismes
+793 0 62 brehemont
+655 0 34 parcay-sur-vienne
+546 0 23 chedigny
+1582 0 53 reugny-37
+319 0 19 lerne
+159 0 7 epeigne-sur-deme
+1544 0 24 saint-epain
+1297 0 100 francueil
+137 0 9 chezelles-37
+1759 0 453 beaulieu-les-loches
+325 0 20 braye-sous-faye
+882 0 25 saint-benoît-la-foret
+1426 0 67 saint-etienne-de-chigny
+978 0 81 villeperdue
+1951 0 50 neuille-pont-pierre
+1303 0 38 mazieres-de-touraine
+431 0 53 anche-37
+113 0 9 couziers
+742 0 51 mosnes
+1304 0 36 clere-les-pins
+1155 0 66 noizay
+1239 0 30 nouzilly
+10377 0 326 fondettes
+765 0 46 neuille-le-lierre
+492 0 18 saint-quentin-sur-indrois
+2501 0 72 athee-sur-cher
+473 0 16 louroux
+1453 0 68 savigny-en-veron
+295 0 16 faye-la-vineuse
+4029 0 66 langeais
+307 0 12 rille
+649 0 18 villeloin-coulange
+190 0 22 pussigny
+1815 0 79 civray-de-touraine
+199 0 37 guerche
+532 0 38 rigny-usse
+3009 0 437 membrolle-sur-choisille
+482 0 18 courcelles-de-touraine
+3522 0 157 nazelles-negron
+440 0 31 ciran
+2902 0 157 saint-martin-le-beau
+6091 0 229 veigne
+894 0 21 luzille
+1031 0 55 saint-ouen-les-vignes
+486 0 20 mouzay-37
+549 0 16 avon-les-roches
+284 0 24 breches
+1294 0 26 sonzay
+568 0 17 hermites
+320 0 20 braslou
+382 0 27 azay-sur-indre
+2222 0 74 ligueil
+496 0 9 charnizay
+1657 0 35 cheille
+395 0 10 celle-guenand
+1653 0 272 cormery
+356 0 82 chenonceaux
+236 0 21 marce-sur-esves
+339 0 23 brizay
+5078 0 149 luynes
+311 0 14 neuilly-le-brignon
+706 0 38 drache
+1121 0 37 abilly
+779 0 31 souvigne-37
+933 0 29 saint-laurent-en-gatines
+567 0 38 crouzilles
+292 0 18 ferriere-37
+366 0 22 louestault
+313 0 35 dame-marie-les-bois
+1038 0 58 celle-saint-avant
+372 0 14 souvigny-de-touraine
+449 0 21 gizeux
+1159 0 136 charge
+300 0 21 saint-laurent-de-lin
+131 0 7 villedomain
+2082 0 58 semblancay
+826 0 12 bossay-sur-claise
+658 0 25 saunay
+1055 0 59 pernay
+663 0 23 sepmes
+446 0 50 cinais
+3933 0 605 montbazon
+262 0 50 tavant
+900 0 30 hommes
+139 0 11 luble
+467 0 11 continvoir
+145 0 13 esves-le-moutier
+249 0 13 chaumussay
+791 0 12 nouans-les-fontaines
+828 0 58 pouzay
+2793 0 148 beaumont-en-veron
+328 0 22 morand
+548 0 40 tour-saint-gelin
+1028 0 216 saint-genouph
+2071 0 73 chouze-sur-loire
+240 0 16 razines
+155 0 37 essards-37
+449 0 13 avrille-les-ponceaux
+10080 0 1233 riche-37
+368 0 23 seuilly
+439 0 23 neuil
+742 0 102 berthenay
+1128 0 76 valleres
+637 0 53 chisseaux
+997 0 25 grand-pressigny
+871 0 151 pont-de-ruan
+991 0 72 noyant-de-touraine
+254 0 24 sazilly
+226 0 9 chemille-sur-indrois
+265 0 20 saint-nicolas-des-motets
+817 0 28 channay-sur-lathan
+1834 0 145 avoine-37
+756 0 11 orbigny
+281 0 22 villebourg
+735 0 37 ferriere-sur-beaulieu
+1029 0 37 ligre
+325 0 21 saint-aubin-le-depeint
+603 0 20 saint-flovier
+723 0 33 saint-jean-saint-germain
+265 0 18 bournan
+3586 0 194 chanceaux-sur-choisille
+552 0 37 bridore
+802 0 116 neuville-sur-brenne
+204 0 49 saint-bauld

@@ -1,0 +1,235 @@
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (1) at (14.5787275192393,1.61353941519213) {};%antibes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (2) at (14.4538992739147,1.55383845829012) {};%cannes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (4) at (12.3984800322923,1.52389833876279) {};%aix-en-provence
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (6) at (4.926361351059,11.6533399752734) {};%caen
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (7) at (3.90862588084691,6.24511455214098) {};%rochelle-17
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (8) at (8.26641811534811,7.8884147652428) {};%bourges
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (9) at (11.4339502317877,8.30685931001475) {};%dijon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (10) at (12.6788861718307,8.1872781140581) {};%besancon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (11) at (-4.48825614831622E-8,10.2490228719319) {};%brest
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (12) at (10.9622195530688,2.06174479733861) {};%nîmes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (15) at (4.53129395727315,3.85456632592457) {};%merignac-33
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (16) at (9.57351592342339,1.19527415257295) {};%beziers
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (18) at (3.32039971051235,9.68123629382875) {};%rennes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (19) at (6.16601264250814,8.42626122381861) {};%tours
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (20) at (12.5625127170608,4.45229302355503) {};%grenoble
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (21) at (10.8721221862292,4.93025924307605) {};%saint-etienne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (23) at (2.66086594687952,8.24697907095995) {};%saint-nazaire-44
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (24) at (7.61949132231601,9.38255222716639) {};%orleans
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (25) at (4.6699236873629,8.57578253930274) {};%angers
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (26) at (10.0566455065886,11.77292117123) {};%reims
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (27) at (12.6751909610923,10.7569292109804) {};%nancy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (28) at (12.5702984574548,11.563698898844) {};%metz
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (29) at (8.93238992267579,14.3725123876796) {};%roubaix
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (31) at (8.91218656282074,14.4024525072069) {};%tourcoing
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (32) at (8.00385156056674,14.9999999226846) {};%dunkerque
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (33) at (7.40721270902475,14.8207177698261) {};%calais
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (34) at (9.19149936090233,5.55774677808119) {};%clermont-ferrand
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (35) at (4.8580981876499,1.10563307614364) {};%pau
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (36) at (9.13652583469924,3.94646778009581E-8) {};%perpignan
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (38) at (14.1595256574611,9.68123629382875) {};%colmar
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (39) at (14.1763560908235,9.08368887835109) {};%mulhouse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (41) at (11.4437979662404,5.52798594070666) {};%villeurbanne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (42) at (5.57643941875225,9.53189426049757) {};%le-mans
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (44) at (6.59960075724955,12.1015453574198) {};%rouen
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (45) at (5.49175860503351,12.2211265533765) {};%havre
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (46) at (7.85578943988087,10.9661514833664) {};%versailles
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (47) at (7.99255010161546,12.9382551648108) {};%amiens
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (48) at (13.10142374517,0.777008889953956) {};%toulon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (49) at (11.5535537878361,2.2709670697246) {};%avignon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (50) at (5.74724762448717,6.99200400094982) {};%poitiers
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (51) at (6.89747619252325,5.67732797403784) {};%limoges
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (52) at (7.93020355202856,11.1154935166975) {};%rueil-malmaison
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (53) at (7.99180206952703,11.0258524402682) {};%boulogne-billancourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (54) at (8.02957100023736,11.165513237345) {};%asnieres-sur-seine
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (55) at (7.9873790651635,11.1753737557523) {};%colombes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (56) at (7.99102495588421,11.1405930180977) {};%courbevoie
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (57) at (7.92933735209113,11.1454336362249) {};%nanterre
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (58) at (8.20624009677074,11.085732679323) {};%montreuil-93
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (59) at (8.2995826192634,11.2350747126542) {};%aulnay-sous-bois
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (60) at (8.11408597943173,11.2051345931269) {};%saint-denis-93
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (61) at (8.14446349337473,11.1753737557523) {};%aubervilliers
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (62) at (8.2220522559246,11.2051345931269) {};%drancy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (63) at (8.28879467933261,10.9661514833664) {};%saint-maur-des-fosses
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (64) at (8.17164691965727,10.9362113638389) {};%vitry-sur-seine
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (65) at (8.30749086971079,10.9960916028937) {};%champigny-sur-marne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (66) at (8.25040457546007,10.9362113638389) {};%creteil
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (67) at (7.98561147589445,11.2350747126542) {};%argenteuil
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (3) at (14.7336082788898,1.8227616875781) {};%nice
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (13) at (7.19742103487916,1.64347953471945) {};%toulouse
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (14) at (4.61605306061844,3.85456632592457) {};%bordeaux
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (17) at (10.3782827486532,1.64347953471945) {};%montpellier
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (22) at (3.44902609172634,8.12757715715626) {};%nantes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (30) at (8.82378656452076,14.252931191723) {};%lille
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (37) at (14.5280601268613,10.5776470581217) {};%strasbourg
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (40) at (11.392192733171,5.51400193278365) {};%lyon
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (5) at (12.3518282609169,1.09971676509942) {};%marseille
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (43) at (8.10179040043766,11.0737207750815) {};%paris
+		\draw[route,blue!40,-,>=latex,line width =0.41pt] (1) -- (2);  
+		\draw[route,blue!47,-,>=latex,line width =0.49pt] (1) -- (3);  
+		\draw[route,blue!46,-,>=latex,line width =0.48pt] (2) -- (3);  
+		\draw[route,blue!47,-,>=latex,line width =0.48pt] (3) -- (5);  
+		\draw[route,blue!35,-,>=latex,line width =0.36pt] (3) -- (17);  
+		\draw[route,blue!54,-,>=latex,line width =0.56pt] (4) -- (5);  
+		\draw[route,blue!42,-,>=latex,line width =0.43pt] (4) -- (48);  
+		\draw[route,blue!40,-,>=latex,line width =0.42pt] (5) -- (13);  
+		\draw[route,blue!47,-,>=latex,line width =0.48pt] (5) -- (17);  
+		\draw[route,blue!42,-,>=latex,line width =0.44pt] (5) -- (40);  
+		\draw[route,blue!41,-,>=latex,line width =0.43pt] (5) -- (43);  
+		\draw[route,blue!52,-,>=latex,line width =0.54pt] (5) -- (48);  
+		\draw[route,blue!42,-,>=latex,line width =0.44pt] (6) -- (45);  
+		\draw[route,blue!27,-,>=latex,line width =0.29pt] (6) -- (46);  
+		\draw[route,blue!26,-,>=latex,line width =0.28pt] (7) -- (15);  
+		\draw[route,blue!36,-,>=latex,line width =0.37pt] (7) -- (22);  
+		\draw[route,blue!30,-,>=latex,line width =0.31pt] (7) -- (50);  
+		\draw[route,blue!32,-,>=latex,line width =0.34pt] (8) -- (24);  
+		\draw[route,blue!29,-,>=latex,line width =0.31pt] (8) -- (34);  
+		\draw[route,blue!39,-,>=latex,line width =0.40pt] (9) -- (10);  
+		\draw[route,blue!31,-,>=latex,line width =0.33pt] (9) -- (27);  
+		\draw[route,blue!34,-,>=latex,line width =0.36pt] (10) -- (39);  
+		\draw[route,blue!32,-,>=latex,line width =0.33pt] (11) -- (22);  
+		\draw[route,blue!27,-,>=latex,line width =0.28pt] (11) -- (23);  
+		\draw[route,blue!46,-,>=latex,line width =0.48pt] (12) -- (17);  
+		\draw[route,blue!41,-,>=latex,line width =0.43pt] (12) -- (49);  
+		\draw[route,blue!38,-,>=latex,line width =0.40pt] (13) -- (14);  
+		\draw[route,blue!39,-,>=latex,line width =0.41pt] (13) -- (17);  
+		\draw[route,blue!36,-,>=latex,line width =0.38pt] (13) -- (35);  
+		\draw[route,blue!45,-,>=latex,line width =0.47pt] (14) -- (15);  
+		\draw[route,blue!34,-,>=latex,line width =0.35pt] (14) -- (22);  
+		\draw[route,blue!25,-,>=latex,line width =0.27pt] (15) -- (35);  
+		\draw[route,blue!41,-,>=latex,line width =0.43pt] (16) -- (17);  
+		\draw[route,blue!35,-,>=latex,line width =0.36pt] (16) -- (36);  
+		\draw[route,blue!37,-,>=latex,line width =0.38pt] (17) -- (36);  
+		\draw[route,blue!38,-,>=latex,line width =0.39pt] (17) -- (40);  
+		\draw[route,blue!40,-,>=latex,line width =0.41pt] (17) -- (49);  
+		\draw[route,blue!43,-,>=latex,line width =0.44pt] (18) -- (22);  
+		\draw[route,blue!36,-,>=latex,line width =0.37pt] (18) -- (23);  
+		\draw[route,blue!39,-,>=latex,line width =0.41pt] (19) -- (42);  
+		\draw[route,blue!35,-,>=latex,line width =0.37pt] (19) -- (50);  
+		\draw[route,blue!31,-,>=latex,line width =0.33pt] (19) -- (51);  
+		\draw[route,blue!44,-,>=latex,line width =0.45pt] (20) -- (40);  
+		\draw[route,blue!38,-,>=latex,line width =0.40pt] (20) -- (41);  
+		\draw[route,blue!37,-,>=latex,line width =0.39pt] (21) -- (34);  
+		\draw[route,blue!50,-,>=latex,line width =0.51pt] (21) -- (40);  
+		\draw[route,blue!43,-,>=latex,line width =0.45pt] (21) -- (41);  
+		\draw[route,blue!42,-,>=latex,line width =0.44pt] (22) -- (23);  
+		\draw[route,blue!43,-,>=latex,line width =0.44pt] (22) -- (25);  
+		\draw[route,blue!43,-,>=latex,line width =0.44pt] (22) -- (43);  
+		\draw[route,blue!34,-,>=latex,line width =0.35pt] (24) -- (46);  
+		\draw[route,blue!33,-,>=latex,line width =0.35pt] (24) -- (64);  
+		\draw[route,blue!39,-,>=latex,line width =0.41pt] (25) -- (42);  
+		\draw[route,blue!34,-,>=latex,line width =0.36pt] (26) -- (59);  
+		\draw[route,blue!34,-,>=latex,line width =0.35pt] (26) -- (65);  
+		\draw[route,blue!40,-,>=latex,line width =0.42pt] (27) -- (28);  
+		\draw[route,blue!31,-,>=latex,line width =0.32pt] (27) -- (38);  
+		\draw[route,blue!37,-,>=latex,line width =0.38pt] (28) -- (37);  
+		\draw[route,blue!47,-,>=latex,line width =0.48pt] (29) -- (30);  
+		\draw[route,blue!42,-,>=latex,line width =0.44pt] (29) -- (31);  
+		\draw[route,blue!47,-,>=latex,line width =0.48pt] (30) -- (31);  
+		\draw[route,blue!40,-,>=latex,line width =0.42pt] (30) -- (32);  
+		\draw[route,blue!37,-,>=latex,line width =0.38pt] (30) -- (33);  
+		\draw[route,blue!29,-,>=latex,line width =0.30pt] (30) -- (37);  
+		\draw[route,blue!47,-,>=latex,line width =0.48pt] (30) -- (43);  
+		\draw[route,blue!40,-,>=latex,line width =0.41pt] (30) -- (47);  
+		\draw[route,blue!38,-,>=latex,line width =0.40pt] (32) -- (33);  
+		\draw[route,blue!40,-,>=latex,line width =0.42pt] (34) -- (40);  
+		\draw[route,blue!41,-,>=latex,line width =0.42pt] (37) -- (38);  
+		\draw[route,blue!40,-,>=latex,line width =0.41pt] (37) -- (39);  
+		\draw[route,blue!34,-,>=latex,line width =0.35pt] (37) -- (40);  
+		\draw[route,blue!41,-,>=latex,line width =0.42pt] (37) -- (43);  
+		\draw[route,blue!39,-,>=latex,line width =0.40pt] (38) -- (39);  
+		\draw[route,blue!53,-,>=latex,line width =0.54pt] (40) -- (41);  
+		\draw[route,blue!59,-,>=latex,line width =0.60pt] (43) -- (58);  
+		\draw[route,blue!40,-,>=latex,line width =0.42pt] (44) -- (45);  
+		\draw[route,blue!36,-,>=latex,line width =0.37pt] (44) -- (47);  
+		\draw[route,blue!43,-,>=latex,line width =0.44pt] (46) -- (53);  
+		\draw[route,blue!41,-,>=latex,line width =0.43pt] (46) -- (57);  
+		\draw[route,blue!34,-,>=latex,line width =0.35pt] (50) -- (51);  
+		\draw[route,blue!43,-,>=latex,line width =0.44pt] (52) -- (53);  
+		\draw[route,blue!41,-,>=latex,line width =0.42pt] (52) -- (54);  
+		\draw[route,blue!41,-,>=latex,line width =0.43pt] (52) -- (57);  
+		\draw[route,blue!43,-,>=latex,line width =0.45pt] (53) -- (56);  
+		\draw[route,blue!41,-,>=latex,line width =0.43pt] (54) -- (55);  
+		\draw[route,blue!42,-,>=latex,line width =0.43pt] (54) -- (56);  
+		\draw[route,blue!42,-,>=latex,line width =0.43pt] (55) -- (56);  
+		\draw[route,blue!43,-,>=latex,line width =0.44pt] (55) -- (67);  
+		\draw[route,blue!42,-,>=latex,line width =0.43pt] (56) -- (57);  
+		\draw[route,blue!43,-,>=latex,line width =0.44pt] (56) -- (67);  
+		\draw[route,blue!42,-,>=latex,line width =0.43pt] (58) -- (61);  
+		\draw[route,blue!42,-,>=latex,line width =0.44pt] (59) -- (60);  
+		\draw[route,blue!40,-,>=latex,line width =0.42pt] (59) -- (62);  
+		\draw[route,blue!42,-,>=latex,line width =0.44pt] (60) -- (61);  
+		\draw[route,blue!41,-,>=latex,line width =0.43pt] (60) -- (62);  
+		\draw[route,blue!40,-,>=latex,line width =0.41pt] (61) -- (62);  
+		\draw[route,blue!40,-,>=latex,line width =0.42pt] (63) -- (65);  
+		\draw[route,blue!41,-,>=latex,line width =0.43pt] (63) -- (66);  
+		\draw[route,blue!41,-,>=latex,line width =0.42pt] (64) -- (65);  
+		\draw[route,blue!42,-,>=latex,line width =0.43pt] (64) -- (66);  
+		\draw[route,blue!41,-,>=latex,line width =0.43pt] (65) -- (66);  
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (1) at (14.5787275192393,1.61353941519213) {};%antibes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (2) at (14.4538992739147,1.55383845829012) {};%cannes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (4) at (12.3984800322923,1.52389833876279) {};%aix-en-provence
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (6) at (4.926361351059,11.6533399752734) {};%caen
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (7) at (3.90862588084691,6.24511455214098) {};%rochelle-17
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (8) at (8.26641811534811,7.8884147652428) {};%bourges
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (9) at (11.4339502317877,8.30685931001475) {};%dijon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (10) at (12.6788861718307,8.1872781140581) {};%besancon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (11) at (-4.48825614831622E-8,10.2490228719319) {};%brest
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (12) at (10.9622195530688,2.06174479733861) {};%nîmes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (15) at (4.53129395727315,3.85456632592457) {};%merignac-33
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (16) at (9.57351592342339,1.19527415257295) {};%beziers
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (18) at (3.32039971051235,9.68123629382875) {};%rennes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (19) at (6.16601264250814,8.42626122381861) {};%tours
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (20) at (12.5625127170608,4.45229302355503) {};%grenoble
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (21) at (10.8721221862292,4.93025924307605) {};%saint-etienne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (23) at (2.66086594687952,8.24697907095995) {};%saint-nazaire-44
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (24) at (7.61949132231601,9.38255222716639) {};%orleans
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (25) at (4.6699236873629,8.57578253930274) {};%angers
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (26) at (10.0566455065886,11.77292117123) {};%reims
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (27) at (12.6751909610923,10.7569292109804) {};%nancy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (28) at (12.5702984574548,11.563698898844) {};%metz
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (29) at (8.93238992267579,14.3725123876796) {};%roubaix
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (31) at (8.91218656282074,14.4024525072069) {};%tourcoing
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (32) at (8.00385156056674,14.9999999226846) {};%dunkerque
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (33) at (7.40721270902475,14.8207177698261) {};%calais
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (34) at (9.19149936090233,5.55774677808119) {};%clermont-ferrand
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (35) at (4.8580981876499,1.10563307614364) {};%pau
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (36) at (9.13652583469924,3.94646778009581E-8) {};%perpignan
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (38) at (14.1595256574611,9.68123629382875) {};%colmar
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (39) at (14.1763560908235,9.08368887835109) {};%mulhouse
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (41) at (11.4437979662404,5.52798594070666) {};%villeurbanne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (42) at (5.57643941875225,9.53189426049757) {};%le-mans
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (44) at (6.59960075724955,12.1015453574198) {};%rouen
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (45) at (5.49175860503351,12.2211265533765) {};%havre
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (46) at (7.85578943988087,10.9661514833664) {};%versailles
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (47) at (7.99255010161546,12.9382551648108) {};%amiens
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (48) at (13.10142374517,0.777008889953956) {};%toulon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (49) at (11.5535537878361,2.2709670697246) {};%avignon
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (50) at (5.74724762448717,6.99200400094982) {};%poitiers
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (51) at (6.89747619252325,5.67732797403784) {};%limoges
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (52) at (7.93020355202856,11.1154935166975) {};%rueil-malmaison
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (53) at (7.99180206952703,11.0258524402682) {};%boulogne-billancourt
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (54) at (8.02957100023736,11.165513237345) {};%asnieres-sur-seine
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (55) at (7.9873790651635,11.1753737557523) {};%colombes
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (56) at (7.99102495588421,11.1405930180977) {};%courbevoie
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (57) at (7.92933735209113,11.1454336362249) {};%nanterre
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (58) at (8.20624009677074,11.085732679323) {};%montreuil-93
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (59) at (8.2995826192634,11.2350747126542) {};%aulnay-sous-bois
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (60) at (8.11408597943173,11.2051345931269) {};%saint-denis-93
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (61) at (8.14446349337473,11.1753737557523) {};%aubervilliers
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (62) at (8.2220522559246,11.2051345931269) {};%drancy
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (63) at (8.28879467933261,10.9661514833664) {};%saint-maur-des-fosses
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (64) at (8.17164691965727,10.9362113638389) {};%vitry-sur-seine
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (65) at (8.30749086971079,10.9960916028937) {};%champigny-sur-marne
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (66) at (8.25040457546007,10.9362113638389) {};%creteil
+			\node[circle,fill={rgb,255:red,50; green,66; blue,128},scale=0.08] (67) at (7.98561147589445,11.2350747126542) {};%argenteuil
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (3) at (14.7336082788898,1.8227616875781) {};%nice
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (13) at (7.19742103487916,1.64347953471945) {};%toulouse
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (14) at (4.61605306061844,3.85456632592457) {};%bordeaux
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (17) at (10.3782827486532,1.64347953471945) {};%montpellier
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (22) at (3.44902609172634,8.12757715715626) {};%nantes
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (30) at (8.82378656452076,14.252931191723) {};%lille
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (37) at (14.5280601268613,10.5776470581217) {};%strasbourg
+			\node[circle,fill={rgb,255:red,100; green,66; blue,128},scale=0.17] (40) at (11.392192733171,5.51400193278365) {};%lyon
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (5) at (12.3518282609169,1.09971676509942) {};%marseille
+			\node[circle,fill={rgb,255:red,150; green,66; blue,128},scale=0.25] (43) at (8.10179040043766,11.0737207750815) {};%paris

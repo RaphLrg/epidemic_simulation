@@ -1,0 +1,766 @@
+305
+453
+
+
+
+1 55 1
+1 115 1
+2 13 1
+2 29 1
+2 63 1
+3 34 1
+3 156 1
+3 264 1
+4 76 37
+4 223 179
+5 36 1
+5 202 1
+6 45 1
+6 85 3
+6 149 1
+6 258 1
+6 295 1
+7 59 1
+7 206 1
+8 138 1
+8 236 1
+8 282 1
+9 153 1
+9 183 1
+9 229 2
+10 145 2
+10 165 1
+10 260 1
+11 13 1
+11 41 1
+11 63 1
+11 184 1
+11 281 1
+12 127 1
+12 160 1
+13 63 1
+14 216 1
+14 217 1
+14 245 1
+15 35 1
+15 145 2
+15 289 1
+16 67 1
+16 177 1
+17 122 1
+17 190 1
+18 224 1
+18 225 1
+19 60 1
+19 142 1
+20 89 1
+20 107 1
+21 79 1
+21 287 1
+22 37 1
+22 102 1
+22 113 1
+22 205 1
+23 235 2
+23 287 1
+24 114 1
+24 247 1
+24 264 1
+25 129 1
+25 131 2
+26 38 1
+26 241 1
+27 188 1
+27 248 1
+28 174 1
+28 175 1
+28 224 1
+29 267 1
+30 120 1
+30 151 1
+31 157 1
+31 266 1
+32 187 1
+32 255 1
+33 62 1
+33 105 1
+33 132 1
+33 189 1
+34 179 1
+34 204 1
+34 264 1
+35 145 4
+36 250 1
+36 258 1
+37 93 1
+37 291 1
+38 94 1
+39 107 1
+39 281 1
+40 216 1
+40 217 2
+41 63 1
+41 184 1
+42 186 1
+42 190 1
+42 280 1
+43 192 2
+43 252 5
+43 268 2
+44 101 1
+44 105 1
+45 149 1
+46 110 1
+46 148 1
+46 164 1
+47 161 1
+47 173 1
+47 267 1
+48 57 1
+48 193 1
+48 233 1
+48 243 1
+49 89 1
+49 243 1
+50 176 1
+50 244 1
+51 126 1
+51 171 1
+51 235 1
+51 277 1
+52 114 1
+52 233 1
+52 247 1
+52 264 1
+53 79 1
+53 175 1
+54 135 1
+54 151 1
+55 115 1
+55 210 1
+55 294 1
+56 114 1
+56 273 1
+57 144 1
+58 231 1
+58 279 1
+59 82 1
+59 210 1
+60 92 1
+60 103 2
+60 196 1
+61 124 1
+61 298 1
+62 139 1
+63 281 1
+64 99 1
+64 232 1
+64 284 6
+65 148 1
+65 164 1
+65 298 1
+66 110 1
+66 164 1
+66 214 1
+67 269 1
+67 297 1
+68 138 1
+68 200 1
+68 236 1
+68 261 4
+69 120 1
+69 199 1
+70 104 1
+70 117 2
+71 86 1
+71 265 1
+72 74 1
+72 169 1
+72 266 1
+73 197 1
+73 243 1
+74 95 1
+74 239 1
+74 266 1
+75 195 1
+75 202 1
+76 266 1
+77 78 1
+77 285 1
+78 181 1
+78 257 1
+79 113 1
+79 205 1
+79 287 1
+80 201 1
+80 262 11
+81 250 1
+81 297 1
+82 177 1
+82 206 2
+83 226 1
+83 302 1
+84 97 8
+84 116 7
+84 155 3
+84 261 80
+84 262 59
+85 136 13
+85 211 2
+85 254 1
+85 258 5
+85 301 3
+86 167 1
+86 265 1
+87 154 1
+87 222 1
+88 166 1
+88 168 2
+89 243 1
+90 137 1
+90 222 1
+90 276 1
+91 146 1
+91 252 2
+91 266 1
+92 142 1
+93 205 1
+93 271 2
+93 293 1
+94 120 1
+94 135 1
+94 151 1
+95 112 1
+95 157 1
+95 213 1
+96 208 1
+96 242 1
+97 116 1
+97 278 1
+98 167 5
+98 230 1
+99 284 3
+100 182 1
+100 244 1
+101 105 1
+101 234 1
+101 246 1
+102 175 1
+103 134 2
+103 196 2
+104 117 2
+104 292 1
+105 226 1
+106 117 14
+106 136 25
+108 132 1
+108 182 1
+108 232 1
+109 162 1
+109 260 1
+111 118 3
+111 146 5
+111 268 3
+112 213 1
+113 126 1
+114 247 1
+114 273 1
+115 133 1
+116 172 1
+116 208 1
+116 299 1
+117 221 8
+118 216 1
+119 203 2
+119 219 1
+119 304 2
+120 151 1
+120 199 1
+121 236 1
+121 242 1
+122 246 1
+123 212 1
+123 228 1
+124 253 1
+124 298 1
+125 158 142
+125 166 133
+125 168 204
+125 221 164
+125 284 211
+127 160 1
+128 193 1
+128 233 1
+129 131 1
+129 160 1
+130 209 1
+130 256 1
+131 139 2
+131 160 1
+131 302 1
+132 270 1
+133 290 1
+134 196 1
+134 215 1
+134 248 1
+134 305 1
+135 136 10
+135 151 3
+136 292 3
+137 185 1
+137 222 1
+139 231 1
+139 244 1
+140 147 1
+140 209 1
+141 153 1
+141 229 1
+142 207 1
+143 152 4
+143 237 1
+144 197 1
+145 293 1
+146 180 3
+146 268 4
+147 163 1
+148 164 1
+149 295 1
+150 154 1
+150 213 1
+150 276 1
+152 237 1
+152 238 1
+153 229 1
+154 222 1
+155 198 1
+156 179 1
+156 264 1
+157 266 1
+158 221 11
+158 232 2
+159 222 1
+159 237 1
+159 238 1
+160 234 1
+161 173 1
+161 219 1
+161 267 1
+161 304 1
+162 260 1
+163 172 1
+164 214 1
+164 298 1
+165 240 1
+165 289 1
+167 230 1
+169 190 1
+169 239 1
+170 220 1
+170 280 1
+171 235 1
+171 287 1
+173 255 1
+173 300 1
+174 191 1
+174 224 4
+174 225 1
+175 205 1
+176 244 1
+177 206 1
+178 201 1
+178 240 1
+178 303 1
+180 268 2
+181 188 1
+181 255 1
+181 283 1
+183 207 1
+183 285 1
+184 230 1
+185 276 1
+186 190 1
+187 304 1
+188 259 1
+189 226 1
+191 225 1
+192 223 10
+194 288 1
+194 300 1
+195 272 1
+196 248 1
+197 243 1
+198 278 1
+198 299 1
+200 236 1
+201 262 3
+201 303 1
+202 301 1
+203 259 1
+203 304 1
+204 233 1
+205 271 2
+206 210 1
+208 278 1
+208 282 1
+209 256 1
+210 251 1
+211 301 1
+212 228 1
+215 241 1
+215 296 1
+216 217 2
+217 228 2
+218 220 1
+218 234 1
+220 234 1
+220 280 1
+221 227 2
+223 284 41
+224 271 7
+226 302 1
+227 232 1
+228 263 1
+233 247 1
+237 238 1
+241 292 1
+241 296 1
+244 270 1
+244 279 1
+245 263 1
+247 264 1
+248 305 1
+249 253 1
+249 298 1
+250 258 1
+250 274 1
+251 294 1
+252 268 6
+253 298 1
+254 272 1
+255 288 1
+255 304 1
+257 288 1
+259 304 1
+261 278 6
+265 281 1
+269 275 1
+270 279 1
+272 301 1
+274 275 1
+274 297 1
+275 297 1
+277 290 1
+277 303 2
+283 285 1
+283 286 1
+285 286 1
+288 300 1
+291 293 1
+
+
+
+621 0 6 lanslebourg-mont-cenis
+627 0 40 montailleur
+188 0 98 notre-dame-du-cruet
+27750 0 2198 aix-les-bains
+121 0 9 albiez-le-jeune
+535 0 38 hermillon
+486 0 14 villarodin-bourget
+390 0 39 crest-voland
+3488 0 748 rochette-73
+944 0 39 bellentre
+667 0 185 saint-vital
+141 0 54 sainte-marie-d-alvey
+421 0 38 clery-73
+418 0 101 mognard
+861 0 32 cote-d-aime
+121 0 10 freney
+281 0 25 meyrieux-trouet
+363 0 65 bois-73
+737 0 134 mollettes
+126 0 13 montgilbert
+1867 0 21 allues
+297 0 54 villarlurin
+1964 0 33 saint-bon-tarentaise
+800 0 219 saint-avre
+2004 0 1095 pont-de-beauvoisin-73
+285 0 15 thuile-73
+379 0 41 saint-pierre-de-soucy
+752 0 34 avanchers-valmorel
+1261 0 139 gresy-sur-isere
+846 0 25 deserts
+255 0 36 chapelle-du-mont-du-chat
+297 0 87 betton-bettonet
+433 0 84 lepin-le-lac
+67 0 3 montgellafrey
+1782 0 47 macot-la-plagne
+661 0 23 montricher-albanne
+312 0 26 hautecour-73
+362 0 35 puygros
+341 0 19 bonvillard
+751 0 108 trevignin
+1676 0 980 frontenex
+185 0 19 loisieux
+1681 0 363 voglans
+434 0 43 nances
+201 0 13 chatel-73
+656 0 49 montagny-73
+660 0 101 bourgneuf-73
+730 0 37 epierre
+886 0 85 randens
+251 0 32 saint-jean-de-couz
+754 0 8 pralognan-la-vanoise
+1162 0 363 chambre
+2543 0 15 saint-martin-de-belleville
+651 0 76 curienne
+418 0 2 termignon
+188 0 2 saint-colomban-des-villards
+174 0 23 saint-pierre-de-belleville
+342 0 55 saint-pierre-de-genebroz
+422 0 11 avrieux
+697 0 98 sainte-helene-du-lac
+98 0 7 doucy-en-bauges
+1187 0 192 bridoire
+560 0 115 tournon
+1769 0 124 vimines
+434 0 43 motte-en-bauges
+182 0 14 noyer-73
+365 0 5 orelle
+848 0 49 flumet
+175 0 8 aillon-le-vieux
+961 0 54 apremont-73
+1930 0 207 grignon-73
+643 0 48 saint-paul-73
+79 0 2 montsapey
+2951 0 126 yenne
+289 0 3 saint-jean-d-arves
+2156 0 246 brison-saint-innocent
+97 0 12 verneil
+385 0 25 table
+551 0 209 brides-les-bains
+2381 0 55 seez
+1305 0 9 valloire
+759 0 150 fourneaux-73
+350 0 47 ayn
+18876 0 1076 albertville
+8242 0 716 saint-jean-de-maurienne
+459 0 72 monthion
+513 0 76 chanaz
+433 0 66 verel-pragondran
+1154 0 299 aiguebelle
+804 0 60 ruffieux
+565 0 116 bourdeau
+620 0 94 laissaud
+663 0 75 saint-marcel-73
+448 0 25 thoiry-73
+344 0 53 jongieux
+661 0 29 villard-sur-doron
+713 0 137 pallud
+2841 0 127 mercury
+744 0 84 saint-sulpice-73
+424 0 23 saint-pierre-d-entremont-73
+1913 0 117 novalaise
+140 0 31 fontaine-le-puits
+4039 0 709 montmelian
+1108 0 309 myans
+620 0 136 saint-alban-de-montbel
+7794 0 1142 ravoire
+122 0 13 bonvillaret
+947 0 39 saint-thibaud-de-couz
+651 0 9 peisey-nancroix
+375 0 15 arith
+2384 0 209 drumettaz-clarafond
+280 0 45 lucey-73
+196 0 40 feissons-sur-salins
+781 0 52 sainte-marie-de-cuines
+465 0 11 lanslevillard
+587 0 234 venthon
+2965 0 475 saint-baldoph
+2090 0 332 mouxy
+3714 0 201 saint-pierre-d-albigny
+449 0 13 aillon-le-jeune
+828 0 13 hauteluce
+171 0 18 verthemex
+641 0 80 saint-offenge-dessous
+226 0 29 compote
+57342 0 2731 chambery
+411 0 18 planay-73
+203 0 36 rochefort-73
+351 0 28 chapelle-73
+548 0 100 belmont-tramonet
+679 0 20 cevins
+1748 0 177 domessin
+555 0 30 attignat-oncin
+343 0 2 bessans
+782 0 457 arbin
+3308 0 1333 barby-73
+5087 0 900 challes-les-eaux
+1129 0 70 serrieres-en-chautagne
+407 0 17 saint-nicolas-la-chapelle-73
+1548 0 178 saint-beron
+522 0 24 saint-paul-sur-isere
+444 0 38 presle
+528 0 127 chapelle-blanche-73
+2200 0 168 biolle
+323 0 16 saint-alban-des-hurtieres
+3501 0 68 aime
+3117 0 1125 tresserve
+746 0 48 esserts-blay
+644 0 28 bellecombe-en-bauges
+224 0 33 montvernier
+183 0 107 conjux
+1479 0 113 saint-jean-d-arvey
+3231 0 211 albens
+419 0 186 detrier
+450 0 46 saint-pierre-de-curtille
+229 0 56 allondaz
+160 0 5 montaimont
+242 0 40 billieme
+3968 0 1606 jacob-bellecombette
+420 0 31 cessens
+473 0 58 avressieux
+560 0 88 chamousset
+766 0 72 landry
+2103 0 93 bathie
+724 0 88 lescheraines
+207 0 25 valezan
+3717 0 1195 bassens-73
+2903 0 412 gilly-sur-isere
+5710 0 679 saint-alban-leysse
+281 0 29 traize
+360 0 71 gresin
+679 0 7 champagny-en-vanoise
+851 0 55 tours-en-savoie
+880 0 82 chamoux-sur-gelon
+1928 0 18 lechere
+559 0 9 saint-jean-de-belleville
+131 0 12 corbel
+480 0 15 saint-andre-73
+767 0 7 sainte-foy-tarentaise
+218 0 16 saint-francois-longchamp
+1385 0 152 mery
+290 0 59 trinite-73
+599 0 18 entremont-le-vieux
+305 0 100 croix-de-la-rochette
+802 0 74 verrens-arvey
+392 0 43 motz
+282 0 36 saint-pierre-d-alvey
+324 0 132 hauteville-73
+246 0 50 villard-d-hery
+240 0 30 aiguebelette-le-lac
+148 0 57 chapelle-saint-martin
+106 0 5 bonneval-73
+1510 0 222 sonnaz
+235 0 21 saint-leger-73
+138 0 15 pontet-73
+343 0 8 saint-sorlin-d-arves
+613 0 200 chavanne-73
+302 0 25 saint-georges-des-hurtieres
+246 0 44 thenesol
+158 0 10 sainte-reine-73
+446 0 12 giettaz
+676 0 26 montvalezan
+381 0 7 albiez-montrond
+842 0 52 saint-jean-de-la-porte
+234 0 49 chavannes-en-maurienne
+947 0 227 salins-les-thermes
+3495 0 49 modane
+224 0 72 villaroux
+852 0 26 queige
+436 0 48 rognaix
+667 0 15 aussois
+471 0 26 jarrier
+547 0 119 saint-ours-73
+91 0 19 ontex
+143 0 9 saint-francois-de-sales
+883 0 127 francin
+941 0 175 pugny-chatenod
+3986 0 313 gresy-sur-aix
+2247 0 183 saint-genix-sur-guiers
+489 0 44 freterive
+594 0 55 champagneux
+4598 0 1213 barberaz
+1235 0 75 chindrieux
+11101 0 371 motte-servolex
+3117 0 158 aigueblanche
+206 0 97 saint-oyen
+402 0 75 dullin
+816 0 72 montagnole
+858 0 56 montcel-73
+847 0 28 arvillard
+413 0 60 plancherine
+149 0 20 saint-franc
+758 0 51 saint-cassin
+1272 0 28 saint-remy-de-maurienne
+416 0 60 gerbaix
+2027 0 70 bozel
+512 0 23 notre-dame-de-bellecombe
+581 0 91 saint-girod
+446 0 46 saint-germain-la-chambotte
+252 0 26 balme
+400 0 14 villaroger
+831 0 99 chignin
+2184 0 14 beaufort-73
+902 0 32 argentine
+517 0 46 saint-christophe-73
+342 0 106 epersy
+185 0 42 marcieux
+1200 0 58 saint-etienne-de-cuines
+512 0 123 planaise
+284 0 8 jarsy
+1630 0 49 saint-julien-mont-denis
+392 0 4 bramans
+4410 0 219 bourget-du-lac
+254 0 8 ecole
+286 0 51 saint-pancrace-73
+491 0 72 villard-leger
+584 0 48 feissons-sur-isere
+149 0 21 bourget-en-huile
+988 0 161 villargondran
+1182 0 113 coise-saint-jean-pied-gauthier
+517 0 29 chapelles
+7058 0 123 ugine
+7705 0 43 bourg-saint-maurice
+274 0 35 saint-offenge-dessus
+476 0 101 saint-martin-sur-la-chambre
+924 0 89 notre-dame-des-millieres
+747 0 58 saint-jean-de-chevelu
+1774 0 108 aiton
+2056 0 521 viviers-du-lac
+344 0 69 saint-martin-d-arc
+417 0 63 bauche
+3821 0 1209 moutiers-73
+261 0 27 villarembert
+89 0 3 saint-alban-des-villards
+702 0 36 saint-martin-de-la-porte
+2776 0 76 saint-michel-de-maurienne
+394 0 69 vions
+1563 0 16 val-d-isere
+1372 0 92 marthod
+1219 0 325 echelles
+217 0 26 saint-maurice-de-rotherens
+1109 0 76 sainte-helene-sur-isere
+156 0 11 cohennoz
+252 0 80 villard-sallet
+5913 0 1319 cognin
+314 0 180 rotherens
+353 0 130 etable
+444 0 44 perriere-73
+34 0 6 champ-laurent
+371 0 12 granier
+241 0 2 bonneval-sur-arc
+271 0 14 notre-dame-du-pre
+1067 0 199 saint-jeoire-prieure
+439 0 32 montgirod
+190 0 5 sollieres-sardieres
+336 0 28 pontamafrey-montpascal
+2448 0 159 marches-73
+432 0 7 valmeinier
+658 0 36 chatelard-73
+391 0 134 cesarches
+58 0 7 montendry
+593 0 27 fontcouverte-la-toussuire
+292 0 78 verel-de-montbel
+2178 0 26 tignes
+757 0 108 chateauneuf-73
+1045 0 103 cruet
